@@ -1,0 +1,148 @@
+article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video {
+	display:block;
+}
+mark, rp, rt, ruby, summary, time {
+	display:inline;
+}
+body {
+	background:#000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:100%;
+	line-height:1em;
+	color:#979797;
+}
+
+.col-1 {
+	width: 900px;
+	margin-right: 100px;
+}
+.col-2 {
+	width: 700px;
+}
+
+.tableauPlaceholder {
+	width: 80vw!important;
+}
+
+html {vertical-align: middle;min-width: 1000px;}
+html, body {
+	height:100%;
+}
+.container {
+	margin: 0 200px;
+	position:relative;
+	width: 100%;
+	font-size:.814em;
+	height: 100%;
+}
+.header {
+	display: block;
+	position:relative;
+	background: url(../images/header-bg.jpg) no-repeat center top;
+	margin-bottom:-20px;
+	height:449px;
+}
+section {
+	padding-bottom:50px;
+}
+.fleft {
+	float:left;
+}
+.fright {
+	float:right;
+}
+.clear {
+	clear:both;
+}
+.col-1, .col-2, .col-3 {
+	float:left;
+}
+.alignright {
+	text-align:right;
+}
+.aligncenter {
+	text-align:center;
+}
+.wrapper {
+	width:100%;
+	overflow:hidden;
+}
+.wrap {
+	position:relative;
+	height:auto !important;
+	height:100%;
+	min-height:100%;
+	overflow-x: hidden;
+}
+.img-box {
+	width:100%;
+	overflow:hidden;
+	padding-bottom:20px;
+	line-height:1.538em;
+}
+.img-box img {
+	float:left;
+	margin:0 20px 0 0;
+}
+.extra-wrap {
+	overflow:hidden;
+}
+p {
+	margin-bottom:20px;
+	line-height:1.538em;
+}
+.p0 {
+	margin:0;
+}
+.p1 {
+	margin-top:20px;
+}
+.p2 {
+	margin-bottom:10px;
+}
+.logo {
+	float:left;
+	width: 1000px;
+	height: 500px;
+	background:url(../images/logo.png) no-repeat left top;
+	position:absolute;
+	text-indent:-9999px;
+	top: 100px;
+	left: 200px;
+}
+h2 {
+	color:#fff;
+	font-size:50px;
+	line-height:1.2em;
+	text-transform:uppercase;
+	margin-bottom:20px;
+}
+h3 {
+	color:#fff;
+	font-size:25px;
+	line-height:1.2em;
+	text-transform:uppercase;
+	margin-bottom:20px;
+	margin-top: 15px;
+}
+h5 {
+	color:#fff;
+	font-size:20px;
+	line-height:1.2em;
+	text-transform:uppercase;
+	margin-bottom:20px;
+}
+.txt1 {
+	color:#fff;
+}
+.indent {
+	padding-top:20px;
+}
+.footer {
+	background:url(../images/footer-bg.jpg) no-repeat center top;
+	color:#fff;
+	font-size:.92em;
+	line-height:1.667em;
+	height:104px;
+	position:relative;
+}
