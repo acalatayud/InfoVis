@@ -1,0 +1,934 @@
+Fecha,Provincia,Casos,Fallecidos
+03/03/2020,Capital Federal,1,0
+03/05/2020,Buenos Aires,1,0
+03/08/2020,Buenos Aires,8,0
+03/09/2020,Capital Federal,1,1
+03/09/2020,Chaco,5,0
+03/09/2020,Rio Negro,1,0
+03/09/2020,San Luis,2,0
+03/10/2020,Buenos Aires,1,0
+03/10/2020,Capital Federal,1,0
+03/11/2020,Buenos Aires,1,0
+03/11/2020,Capital Federal,1,0
+03/12/2020,Capital Federal,10,0
+03/13/2020,Buenos Aires,1,0
+03/13/2020,Capital Federal,2,1
+03/14/2020,Capital Federal,11,0
+03/15/2020,Buenos Aires,1,0
+03/15/2020,Capital Federal,6,0
+03/15/2020,Chaco,4,0
+03/15/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",1,0
+03/16/2020,Buenos Aires,1,0
+03/16/2020,Capital Federal,5,0
+03/16/2020,Chaco,3,0
+03/17/2020,Buenos Aires,1,0
+03/17/2020,Capital Federal,4,0
+03/17/2020,Chaco,1,0
+03/17/2020,Córdoba,2,0
+03/17/2020,Entre Rios,1,0
+03/17/2020,Jujuy,1,0
+03/17/2020,Rio Negro,1,0
+03/17/2020,Salta,1,0
+03/17/2020,Santa Cruz,1,0
+03/18/2020,Buenos Aires,6,0
+03/18/2020,Capital Federal,10,0
+03/18/2020,Chaco,1,0
+03/18/2020,Córdoba,1,0
+03/18/2020,Entre Rios,1,0
+03/19/2020,Buenos Aires,14,0
+03/19/2020,Capital Federal,8,1
+03/19/2020,Chaco,2,0
+03/19/2020,Córdoba,2,0
+03/19/2020,Rio Negro,2,0
+03/19/2020,Santa Fe,1,0
+03/19/2020,Santiago del Estero,1,0
+03/19/2020,Tucumán,1,0
+03/20/2020,Buenos Aires,9,0
+03/20/2020,Capital Federal,9,0
+03/20/2020,Chaco,1,0
+03/20/2020,Córdoba,4,0
+03/20/2020,Corrientes,1,0
+03/20/2020,Entre Rios,2,0
+03/20/2020,Neuquén,1,0
+03/20/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",1,0
+03/21/2020,Buenos Aires,14,1
+03/21/2020,Capital Federal,29,0
+03/21/2020,Chaco,5,0
+03/21/2020,Córdoba,4,0
+03/21/2020,Corrientes,2,0
+03/21/2020,Mendoza,5,0
+03/21/2020,Rio Negro,1,0
+03/21/2020,Santa Fe,3,0
+03/21/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",3,0
+03/21/2020,Tucumán,1,0
+03/22/2020,Buenos Aires,8,0
+03/22/2020,Capital Federal,11,0
+03/22/2020,Chaco,7,0
+03/22/2020,Córdoba,8,0
+03/22/2020,Tucumán,5,0
+03/23/2020,Buenos Aires,5,0
+03/23/2020,Capital Federal,11,0
+03/23/2020,Chaco,4,0
+03/23/2020,Córdoba,3,0
+03/23/2020,Santa Fe,14,0
+03/24/2020,Buenos Aires,29,1
+03/24/2020,Capital Federal,29,0
+03/24/2020,Chaco,9,1
+03/24/2020,Córdoba,7,0
+03/24/2020,La Pampa,1,0
+03/24/2020,Neuquén,1,0
+03/24/2020,Santa Cruz,1,0
+03/24/2020,Santa Fe,3,0
+03/24/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",4,0
+03/25/2020,Buenos Aires,30,0
+03/25/2020,Capital Federal,21,1
+03/25/2020,Chaco,12,1
+03/25/2020,Córdoba,15,0
+03/25/2020,Entre Rios,3,0
+03/25/2020,Mendoza,1,0
+03/25/2020,Neuquén,1,0
+03/25/2020,San Luis,4,0
+03/25/2020,Santa Cruz,5,0
+03/25/2020,Santa Fe,22,0
+03/25/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",1,0
+03/25/2020,Tucumán,2,0
+03/26/2020,Buenos Aires,27,2
+03/26/2020,Capital Federal,30,1
+03/26/2020,Chaco,3,1
+03/26/2020,Córdoba,3,0
+03/26/2020,Jujuy,2,0
+03/26/2020,Mendoza,1,0
+03/26/2020,Neuquén,3,0
+03/26/2020,Santa Cruz,2,0
+03/26/2020,Santa Fe,12,0
+03/26/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",3,0
+03/27/2020,Buenos Aires,36,1
+03/27/2020,Capital Federal,27,1
+03/27/2020,Chaco,3,0
+03/27/2020,Córdoba,5,0
+03/27/2020,Corrientes,3,0
+03/27/2020,Entre Rios,3,0
+03/27/2020,Mendoza,1,1
+03/27/2020,Misiones,1,0
+03/27/2020,Neuquén,4,1
+03/27/2020,Rio Negro,3,1
+03/27/2020,Santa Fe,9,0
+03/27/2020,Santiago del Estero,1,0
+03/27/2020,Tucumán,6,0
+03/28/2020,Buenos Aires,8,1
+03/28/2020,Capital Federal,18,1
+03/28/2020,Chaco,5,0
+03/28/2020,Córdoba,1,0
+03/28/2020,Corrientes,2,0
+03/28/2020,Mendoza,1,0
+03/28/2020,Neuquén,2,0
+03/28/2020,Santa Fe,13,0
+03/28/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",4,0
+03/29/2020,Buenos Aires,16,0
+03/29/2020,Capital Federal,13,0
+03/29/2020,Chaco,4,0
+03/29/2020,Córdoba,18,0
+03/29/2020,Corrientes,1,0
+03/29/2020,La Pampa,2,0
+03/29/2020,La Rioja,1,0
+03/29/2020,Mendoza,1,0
+03/29/2020,Misiones,1,0
+03/29/2020,San Juan,1,0
+03/29/2020,Santa Fe,13,0
+03/29/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",4,0
+03/29/2020,Tucumán,0,1
+03/30/2020,Buenos Aires,36,2
+03/30/2020,Capital Federal,34,0
+03/30/2020,Chaco,12,0
+03/30/2020,Córdoba,8,0
+03/30/2020,Corrientes,10,0
+03/30/2020,Entre Rios,3,0
+03/30/2020,Mendoza,3,0
+03/30/2020,Neuquén,8,1
+03/30/2020,Santa Fe,21,0
+03/30/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",11,0
+03/30/2020,Tucumán,0,1
+03/31/2020,Buenos Aires,17,0
+03/31/2020,Capital Federal,19,0
+03/31/2020,Chaco,3,1
+03/31/2020,Córdoba,14,1
+03/31/2020,Corrientes,1,0
+03/31/2020,La Rioja,0,1
+03/31/2020,Mendoza,2,0
+03/31/2020,Misiones,1,0
+03/31/2020,Rio Negro,1,0
+03/31/2020,Santa Fe,22,0
+03/31/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",7,0
+03/31/2020,Tucumán,1,0
+04/01/2020,Buenos Aires,10,2
+04/01/2020,Capital Federal,10,1
+04/01/2020,Chaco,12,0
+04/01/2020,Córdoba,6,0
+04/01/2020,Corrientes,1,0
+04/01/2020,Entre Rios,1,0
+04/01/2020,Mendoza,10,0
+04/01/2020,Neuquén,4,1
+04/01/2020,Salta,2,0
+04/01/2020,San Luis,1,0
+04/01/2020,Santa Cruz,10,0
+04/01/2020,Santa Fe,11,1
+04/01/2020,Tucumán,1,0
+04/02/2020,Buenos Aires,36,2
+04/02/2020,Capital Federal,24,0
+04/02/2020,Chaco,3,1
+04/02/2020,Córdoba,16,0
+04/02/2020,Corrientes,1,0
+04/02/2020,Entre Rios,2,0
+04/02/2020,Jujuy,2,0
+04/02/2020,La Rioja,3,0
+04/02/2020,Mendoza,0,1
+04/02/2020,Neuquén,4,0
+04/02/2020,San Luis,2,0
+04/02/2020,Santa Cruz,2,0
+04/02/2020,Santa Fe,8,0
+04/02/2020,Santiago del Estero,1,0
+04/02/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",24,0
+04/02/2020,Tucumán,4,0
+04/03/2020,Buenos Aires,22,3
+04/03/2020,Capital Federal,28,0
+04/03/2020,Chaco,8,1
+04/03/2020,Córdoba,14,0
+04/03/2020,Entre Rios,2,0
+04/03/2020,Mendoza,2,1
+04/03/2020,Neuquén,1,0
+04/03/2020,Rio Negro,1,0
+04/03/2020,San Luis,1,0
+04/03/2020,Santa Fe,8,0
+04/03/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",1,0
+04/03/2020,Tucumán,0,1
+04/04/2020,Buenos Aires,26,1
+04/04/2020,Capital Federal,34,1
+04/04/2020,Chaco,8,0
+04/04/2020,Córdoba,3,0
+04/04/2020,La Rioja,2,0
+04/04/2020,Neuquén,4,0
+04/04/2020,Rio Negro,5,0
+04/04/2020,Santa Cruz,1,0
+04/04/2020,Santa Fe,5,0
+04/04/2020,Santiago del Estero,1,0
+04/04/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",8,0
+04/04/2020,Tucumán,1,0
+04/05/2020,Buenos Aires,33,1
+04/05/2020,Capital Federal,32,0
+04/05/2020,Córdoba,5,1
+04/05/2020,Entre Rios,1,0
+04/05/2020,La Rioja,2,0
+04/05/2020,Mendoza,2,0
+04/05/2020,Neuquén,11,0
+04/05/2020,Rio Negro,2,0
+04/05/2020,Santa Cruz,1,0
+04/05/2020,Santa Fe,11,0
+04/05/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",3,0
+04/06/2020,Buenos Aires,12,2
+04/06/2020,Capital Federal,17,3
+04/06/2020,Chaco,4,1
+04/06/2020,Córdoba,7,0
+04/06/2020,Corrientes,2,0
+04/06/2020,La Rioja,1,0
+04/06/2020,Mendoza,1,0
+04/06/2020,Neuquén,6,1
+04/06/2020,Rio Negro,2,0
+04/06/2020,San Luis,1,0
+04/06/2020,Santa Fe,8,0
+04/06/2020,Santiago del Estero,5,0
+04/06/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",2,0
+04/06/2020,Tucumán,5,0
+04/07/2020,Buenos Aires,34,4
+04/07/2020,Capital Federal,24,2
+04/07/2020,Chaco,4,0
+04/07/2020,Córdoba,4,0
+04/07/2020,Entre Rios,1,0
+04/07/2020,Mendoza,2,1
+04/07/2020,Neuquén,3,0
+04/07/2020,Rio Negro,2,0
+04/07/2020,Santa Cruz,8,0
+04/07/2020,Santa Fe,3,0
+04/07/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",2,0
+04/07/2020,Tucumán,1,0
+04/08/2020,Buenos Aires,17,1
+04/08/2020,Capital Federal,18,2
+04/08/2020,Chaco,15,0
+04/08/2020,Córdoba,1,0
+04/08/2020,La Pampa,1,0
+04/08/2020,Mendoza,6,0
+04/08/2020,Neuquén,17,1
+04/08/2020,Rio Negro,1,0
+04/08/2020,Santa Fe,2,0
+04/08/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",2,0
+04/08/2020,Tucumán,0,1
+04/09/2020,Buenos Aires,28,6
+04/09/2020,Capital Federal,23,6
+04/09/2020,Chaco,6,1
+04/09/2020,Córdoba,5,0
+04/09/2020,Entre Rios,2,0
+04/09/2020,La Rioja,5,0
+04/09/2020,Mendoza,2,0
+04/09/2020,Neuquén,7,0
+04/09/2020,Rio Negro,13,0
+04/09/2020,Santa Fe,7,1
+04/09/2020,Santiago del Estero,0,0
+04/09/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",0,0
+04/09/2020,Tucumán,1,0
+04/10/2020,Buenos Aires,19,1
+04/10/2020,Capital Federal,11,1
+04/10/2020,Chaco,5,0
+04/10/2020,Córdoba,13,0
+04/10/2020,La Pampa,1,0
+04/10/2020,Mendoza,9,0
+04/10/2020,Neuquén,7,0
+04/10/2020,Rio Negro,7,1
+04/10/2020,Santa Cruz,6,0
+04/10/2020,Santa Fe,1,0
+04/10/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",2,0
+04/11/2020,Buenos Aires,37,4
+04/11/2020,Capital Federal,46,3
+04/11/2020,Córdoba,32,0
+04/11/2020,La Rioja,4,0
+04/11/2020,Mendoza,5,0
+04/11/2020,Neuquén,1,0
+04/11/2020,Rio Negro,23,0
+04/11/2020,San Juan,1,0
+04/11/2020,Santa Cruz,3,0
+04/11/2020,Santa Fe,3,0
+04/11/2020,Santiago del Estero,3,0
+04/11/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",8,0
+04/11/2020,Tucumán,1,0
+04/12/2020,Buenos Aires,28,4
+04/12/2020,Capital Federal,8,1
+04/12/2020,Chaco,1,0
+04/12/2020,Córdoba,5,1
+04/12/2020,Entre Rios,-1,0
+04/12/2020,La Rioja,1,0
+04/12/2020,Mendoza,3,0
+04/12/2020,Neuquén,1,0
+04/12/2020,Rio Negro,13,0
+04/12/2020,Santa Fe,3,0
+04/12/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",4,0
+04/13/2020,Buenos Aires,29,1
+04/13/2020,Capital Federal,10,1
+04/13/2020,Chaco,3,0
+04/13/2020,Chubut,0,0
+04/13/2020,Catamarca,0,0
+04/13/2020,Córdoba,4,1
+04/13/2020,Corrientes,7,0
+04/13/2020,Entre Rios,0,0
+04/13/2020,Formosa,0,0
+04/13/2020,Jujuy,0,0
+04/13/2020,La Pampa,0,0
+04/13/2020,La Rioja,3,0
+04/13/2020,Mendoza,2,0
+04/13/2020,Misiones,0,0
+04/13/2020,Neuquén,2,0
+04/13/2020,Rio Negro,3,0
+04/13/2020,Salta,0,0
+04/13/2020,San Juan,0,0
+04/13/2020,San Luis,0,0
+04/13/2020,Santa Cruz,0,0
+04/13/2020,Santa Fe,2,0
+04/13/2020,Santiago del Estero,0,0
+04/13/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",4,0
+04/13/2020,Tucumán,0,0
+04/14/2020,Buenos Aires,66,2
+04/14/2020,Capital Federal,22,2
+04/14/2020,Chaco,31,1
+04/14/2020,Córdoba,12,1
+04/14/2020,Corrientes,1,0
+04/14/2020,La Rioja,6,0
+04/14/2020,Mendoza,3,0
+04/14/2020,Neuquén,2,0
+04/14/2020,Rio Negro,13,1
+04/14/2020,Santa Fe,2,0
+04/14/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",8,0
+04/15/2020,Buenos Aires,62,1
+04/15/2020,Capital Federal,30,4
+04/15/2020,Chaco,7,0
+04/15/2020,Chubut,1,0
+04/15/2020,Catamarca,0,0
+04/15/2020,Córdoba,6,1
+04/15/2020,Corrientes,-1,0
+04/15/2020,Entre Rios,0,0
+04/15/2020,Formosa,0,0
+04/15/2020,Jujuy,0,0
+04/15/2020,La Pampa,0,0
+04/15/2020,La Rioja,3,1
+04/15/2020,Mendoza,1,0
+04/15/2020,Misiones,0,0
+04/15/2020,Neuquén,1,0
+04/15/2020,Rio Negro,12,0
+04/15/2020,Salta,1,0
+04/15/2020,San Juan,0,0
+04/15/2020,San Luis,0,0
+04/15/2020,Santa Cruz,0,0
+04/15/2020,Santa Fe,2,0
+04/15/2020,Santiago del Estero,0,0
+04/15/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",3,0
+04/15/2020,Tucumán,0,0
+04/16/2020,Buenos Aires,31,5
+04/16/2020,Capital Federal,15,3
+04/16/2020,Chaco,11,1
+04/16/2020,Chubut,0,0
+04/16/2020,Catamarca,0,0
+04/16/2020,Córdoba,13,0
+04/16/2020,Corrientes,0,0
+04/16/2020,Entre Rios,1,0
+04/16/2020,Formosa,0,0
+04/16/2020,Jujuy,0,0
+04/16/2020,La Pampa,0,0
+04/16/2020,La Rioja,3,0
+04/16/2020,Mendoza,5,1
+04/16/2020,Misiones,0,0
+04/16/2020,Neuquén,1,0
+04/16/2020,Rio Negro,9,0
+04/16/2020,Salta,-1,0
+04/16/2020,San Juan,0,0
+04/16/2020,San Luis,0,0
+04/16/2020,Santa Cruz,0,0
+04/16/2020,Santa Fe,3,0
+04/16/2020,Santiago del Estero,0,0
+04/16/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",7,0
+04/16/2020,Tucumán,0,0
+04/17/2020,Buenos Aires,34,3
+04/17/2020,Capital Federal,14,1
+04/17/2020,Chaco,22,0
+04/17/2020,Chubut,0,0
+04/17/2020,Catamarca,0,0
+04/17/2020,Córdoba,6,0
+04/17/2020,Corrientes,0,0
+04/17/2020,Entre Rios,0,0
+04/17/2020,Formosa,0,0
+04/17/2020,Jujuy,0,0
+04/17/2020,La Pampa,0,0
+04/17/2020,La Rioja,1,1
+04/17/2020,Mendoza,1,2
+04/17/2020,Misiones,1,0
+04/17/2020,Neuquén,1,0
+04/17/2020,Rio Negro,1,0
+04/17/2020,Salta,0,0
+04/17/2020,San Juan,0,0
+04/17/2020,San Luis,0,0
+04/17/2020,Santa Cruz,0,0
+04/17/2020,Santa Fe,6,0
+04/17/2020,Santiago del Estero,0,0
+04/17/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",2,0
+04/17/2020,Tucumán,0,0
+04/18/2020,Buenos Aires,31,2
+04/18/2020,Capital Federal,14,1
+04/18/2020,Chaco,24,0
+04/18/2020,Córdoba,2,0
+04/18/2020,Misiones,1,0
+04/18/2020,Neuquén,3,0
+04/18/2020,Rio Negro,3,0
+04/18/2020,Santa Fe,3,0
+04/19/2020,Buenos Aires,48,1
+04/19/2020,Capital Federal,15,0
+04/19/2020,Chaco,5,0
+04/19/2020,Chubut,1,0
+04/19/2020,Córdoba,11,1
+04/19/2020,La Rioja,4,0
+04/19/2020,Mendoza,3,0
+04/19/2020,Neuquén,3,0
+04/19/2020,Rio Negro,8,0
+04/19/2020,Santa Fe,1,0
+04/19/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",3,0
+04/20/2020,Buenos Aires,42,0
+04/20/2020,Capital Federal,22,1
+04/20/2020,Chaco,5,1
+04/20/2020,Córdoba,0,2
+04/20/2020,Corrientes,3,0
+04/20/2020,Mendoza,1,1
+04/20/2020,Neuquén,3,0
+04/20/2020,Rio Negro,10,3
+04/20/2020,Santa Cruz,1,0
+04/20/2020,Santa Fe,2,0
+04/20/2020,Tucumán,1,0
+04/21/2020,Buenos Aires,60,4
+04/21/2020,Capital Federal,33,3
+04/21/2020,Chaco,5,0
+04/21/2020,La Rioja,1,2
+04/21/2020,Rio Negro,11,0
+04/21/2020,Santa Fe,1,0
+04/21/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",2,0
+04/22/2020,Buenos Aires,61,5
+04/22/2020,Capital Federal,39,2
+04/22/2020,Chaco,7,0
+04/22/2020,Córdoba,4,1
+04/22/2020,La Rioja,5,0
+04/22/2020,Mendoza,1,0
+04/22/2020,Neuquén,1,0
+04/22/2020,Rio Negro,17,0
+04/22/2020,Santa Fe,5,0
+04/22/2020,Tucumán,4,0
+04/23/2020,Buenos Aires,84,4
+04/23/2020,Capital Federal,37,1
+04/23/2020,Chaco,10,0
+04/23/2020,Córdoba,2,0
+04/23/2020,Corrientes,1,0
+04/23/2020,Mendoza,1,1
+04/23/2020,Neuquén,1,0
+04/23/2020,Rio Negro,4,0
+04/23/2020,Santa Fe,6,0
+04/23/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",1,0
+04/24/2020,Buenos Aires,61,4
+04/24/2020,Capital Federal,79,4
+04/24/2020,Chaco,7,1
+04/24/2020,Córdoba,3,1
+04/24/2020,Corrientes,4,0
+04/24/2020,La Rioja,2,0
+04/24/2020,Misiones,1,1
+04/24/2020,Rio Negro,11,0
+04/24/2020,Santa Cruz,1,0
+04/24/2020,Santa Fe,3,0
+04/24/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",1,0
+04/24/2020,Tucumán,-1,0
+04/25/2020,Buenos Aires,94,2
+04/25/2020,Capital Federal,55,4
+04/25/2020,Chaco,7,0
+04/25/2020,Córdoba,1,1
+04/25/2020,Corrientes,1,0
+04/25/2020,La Rioja,3,1
+04/25/2020,Rio Negro,4,1
+04/25/2020,Santa Fe,3,0
+04/25/2020,Santiago del Estero,1,0
+04/25/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",4,0
+04/26/2020,Buenos Aires,56,2
+04/26/2020,Capital Federal,36,5
+04/26/2020,Chaco,3,0
+04/26/2020,Córdoba,3,0
+04/26/2020,Corrientes,6,0
+04/26/2020,Entre Rios,1,0
+04/26/2020,Neuquén,1,0
+04/26/2020,Rio Negro,1,0
+04/26/2020,Salta,1,0
+04/26/2020,Santa Cruz,1,0
+04/26/2020,Santiago del Estero,2,0
+04/26/2020,Tucumán,1,0
+04/27/2020,Buenos Aires,50,1
+04/27/2020,Capital Federal,32,2
+04/27/2020,Chaco,10,1
+04/27/2020,Córdoba,0,1
+04/27/2020,Misiones,2,0
+04/27/2020,Neuquén,3,0
+04/27/2020,Rio Negro,8,0
+04/27/2020,Santa Cruz,5,0
+04/27/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",1,0
+04/28/2020,Buenos Aires,48,6
+04/28/2020,Capital Federal,50,2
+04/28/2020,Córdoba,2,1
+04/28/2020,Corrientes,1,0
+04/28/2020,La Rioja,1,0
+04/28/2020,Mendoza,1,0
+04/28/2020,Neuquén,0,1
+04/28/2020,Rio Negro,13,0
+04/28/2020,Santa Fe,1,0
+04/28/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",6,0
+04/28/2020,Tucumán,1,0
+04/29/2020,Buenos Aires,103,2
+04/29/2020,Capital Federal,34,3
+04/29/2020,Chaco,4,1
+04/29/2020,Córdoba,1,0
+04/29/2020,La Rioja,1,0
+04/29/2020,Mendoza,2,0
+04/29/2020,Misiones,4,0
+04/29/2020,Neuquén,1,0
+04/29/2020,Rio Negro,8,1
+04/30/2020,Buenos Aires,66,2
+04/30/2020,Capital Federal,45,2
+04/30/2020,Chaco,3,0
+04/30/2020,Córdoba,2,0
+04/30/2020,Corrientes,1,0
+04/30/2020,Mendoza,5,0
+04/30/2020,Neuquén,1,0
+04/30/2020,Rio Negro,14,0
+04/30/2020,Santa Cruz,1,0
+04/30/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",2,0
+04/30/2020,Tucumán,2,0
+05/01/2020,Buenos Aires,34,3
+05/01/2020,Capital Federal,29,4
+05/01/2020,Chaco,12,0
+05/01/2020,Chubut,1,0
+05/01/2020,Córdoba,13,0
+05/01/2020,Entre Rios,2,0
+05/01/2020,La Rioja,3,0
+05/01/2020,Mendoza,1,0
+05/01/2020,Rio Negro,8,0
+05/01/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",1,0
+05/02/2020,Buenos Aires,45,2
+05/02/2020,Capital Federal,58,6
+05/02/2020,Chaco,11,3
+05/02/2020,Chubut,1,0
+05/02/2020,Córdoba,12,1
+05/02/2020,Misiones,12,0
+05/02/2020,Rio Negro,6,0
+05/02/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",3,0
+05/03/2020,Buenos Aires,38,3
+05/03/2020,Capital Federal,49,2
+05/03/2020,Chaco,5,1
+05/03/2020,Córdoba,1,2
+05/03/2020,Entre Rios,2,0
+05/03/2020,Rio Negro,6,1
+05/03/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",2,0
+05/04/2020,Buenos Aires,38,7
+05/04/2020,Capital Federal,43,4
+05/04/2020,Chaco,5,1
+05/04/2020,Córdoba,6,2
+05/04/2020,La Rioja,1,0
+05/04/2020,Misiones,1,0
+05/04/2020,Rio Negro,7,0
+05/04/2020,Tucumán,3,0
+05/05/2020,Buenos Aires,58,1
+05/05/2020,Capital Federal,57,1
+05/05/2020,Chaco,11,0
+05/05/2020,Córdoba,1,2
+05/05/2020,Entre Rios,1,0
+05/05/2020,Mendoza,1,0
+05/05/2020,Rio Negro,4,0
+05/05/2020,Santa Fe,1,0
+05/06/2020,Buenos Aires,63,5
+05/06/2020,Capital Federal,102,2
+05/06/2020,Chaco,8,1
+05/06/2020,Córdoba,5,0
+05/06/2020,Corrientes,3,0
+05/06/2020,La Rioja,1,0
+05/06/2020,Rio Negro,6,1
+05/07/2020,Buenos Aires,50,6
+05/07/2020,Capital Federal,77,2
+05/07/2020,Chaco,26,0
+05/07/2020,Córdoba,4,0
+05/07/2020,Corrientes,1,0
+05/07/2020,La Rioja,1,0
+05/07/2020,Rio Negro,3,0
+05/07/2020,San Juan,1,0
+05/07/2020,Santa Fe,0,1
+05/08/2020,Buenos Aires,77,5
+05/08/2020,Capital Federal,130,6
+05/08/2020,Chaco,26,0
+05/08/2020,Córdoba,2,0
+05/08/2020,Corrientes,1,0
+05/08/2020,La Rioja,1,0
+05/08/2020,Mendoza,1,0
+05/08/2020,Rio Negro,2,0
+05/09/2020,Buenos Aires,60,4
+05/09/2020,Capital Federal,83,2
+05/09/2020,Chaco,9,0
+05/09/2020,Córdoba,6,0
+05/09/2020,Corrientes,1,0
+05/09/2020,La Rioja,0,1
+05/09/2020,Neuquén,1,0
+05/09/2020,Rio Negro,4,0
+05/09/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",1,0
+05/10/2020,Buenos Aires,51,3
+05/10/2020,Capital Federal,165,2
+05/10/2020,Chaco,32,0
+05/10/2020,Córdoba,5,0
+05/10/2020,Rio Negro,2,0
+05/10/2020,Santiago del Estero,1,0
+05/10/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",2,0
+05/11/2020,Buenos Aires,44,4
+05/11/2020,Capital Federal,138,3
+05/11/2020,Chaco,17,1
+05/11/2020,Córdoba,14,0
+05/11/2020,Corrientes,16,0
+05/11/2020,La Rioja,1,0
+05/11/2020,Rio Negro,13,1
+05/11/2020,Tucumán,1,0
+05/12/2020,Buenos Aires,80,2
+05/12/2020,Capital Federal,188,1
+05/12/2020,Chaco,10,1
+05/12/2020,Córdoba,3,1
+05/12/2020,Corrientes,1,0
+05/12/2020,Mendoza,1,0
+05/12/2020,Rio Negro,1,0
+05/12/2020,Salta,1,0
+05/13/2020,Buenos Aires,96,4
+05/13/2020,Capital Federal,178,5
+05/13/2020,Chaco,18,1
+05/13/2020,Córdoba,11,0
+05/13/2020,Corrientes,5,0
+05/13/2020,Entre Rios,1,0
+05/13/2020,Neuquén,2,0
+05/13/2020,Rio Negro,4,0
+05/14/2020,Buenos Aires,79,11
+05/14/2020,Capital Federal,154,10
+05/14/2020,Chaco,9,1
+05/14/2020,Córdoba,5,1
+05/14/2020,Corrientes,3,0
+05/14/2020,Neuquén,1,0
+05/14/2020,Rio Negro,4,1
+05/15/2020,Buenos Aires,86,2
+05/15/2020,Capital Federal,214,0
+05/15/2020,Chaco,25,1
+05/15/2020,Córdoba,3,0
+05/15/2020,Rio Negro,17,0
+05/16/2020,Buenos Aires,97,2
+05/16/2020,Capital Federal,193,4
+05/16/2020,Chaco,21,1
+05/16/2020,Córdoba,9,0
+05/16/2020,Rio Negro,6,0
+05/16/2020,Santa Fe,1,0
+05/17/2020,Buenos Aires,74,3
+05/17/2020,Capital Federal,147,2
+05/17/2020,Chaco,19,2
+05/17/2020,Córdoba,20,2
+05/17/2020,La Rioja,1,0
+05/17/2020,Rio Negro,2,1
+05/18/2020,Buenos Aires,93,2
+05/18/2020,Capital Federal,169,5
+05/18/2020,Chaco,13,2
+05/18/2020,Córdoba,20,0
+05/18/2020,Corrientes,-1,0
+05/18/2020,La Rioja,2,0
+05/18/2020,Rio Negro,2,0
+05/18/2020,San Juan,1,0
+05/18/2020,Santa Fe,4,0
+05/19/2020,Buenos Aires,157,2
+05/19/2020,Capital Federal,224,5
+05/19/2020,Chaco,34,4
+05/19/2020,Córdoba,9,0
+05/19/2020,Mendoza,2,0
+05/19/2020,Rio Negro,6,0
+05/19/2020,Santiago del Estero,6,0
+05/20/2020,Buenos Aires,178,5
+05/20/2020,Capital Federal,257,2
+05/20/2020,Chaco,35,1
+05/20/2020,Córdoba,2,1
+05/20/2020,Rio Negro,2,1
+05/21/2020,Buenos Aires,213,9
+05/21/2020,Capital Federal,379,2
+05/21/2020,Chaco,34,2
+05/21/2020,Córdoba,12,0
+05/21/2020,Rio Negro,3,0
+05/21/2020,Santa Fe,5,0
+05/21/2020,Tucumán,1,0
+05/22/2020,Buenos Aires,266,5
+05/22/2020,Capital Federal,404,7
+05/22/2020,Chaco,27,2
+05/22/2020,Córdoba,9,1
+05/22/2020,Rio Negro,6,2
+05/22/2020,Salta,2,0
+05/22/2020,Santa Fe,4,0
+05/23/2020,Buenos Aires,289,4
+05/23/2020,Capital Federal,400,6
+05/23/2020,Chaco,7,2
+05/23/2020,Rio Negro,5,0
+05/23/2020,Tucumán,2,0
+05/24/2020,Buenos Aires,196,2
+05/24/2020,Capital Federal,494,3
+05/24/2020,Chaco,20,2
+05/24/2020,Córdoba,6,0
+05/24/2020,Neuquén,1,0
+05/24/2020,Rio Negro,5,0
+05/24/2020,Santa Fe,1,0
+05/24/2020,Tucumán,0,0
+05/25/2020,Buenos Aires,159,5
+05/25/2020,Capital Federal,377,8
+05/25/2020,Chaco,9,0
+05/25/2020,Córdoba,0,1
+05/25/2020,Neuquén,1,0
+05/25/2020,Rio Negro,4,1
+05/25/2020,Tucumán,2,0
+05/26/2020,Buenos Aires,236,16
+05/26/2020,Capital Federal,328,5
+05/26/2020,Chaco,23,2
+05/26/2020,Chubut,1,0
+05/26/2020,Neuquén,7,0
+05/26/2020,Rio Negro,4,0
+05/26/2020,Santa Fe,1,0
+05/27/2020,Buenos Aires,315,3
+05/27/2020,Capital Federal,361,4
+05/27/2020,Chaco,16,2
+05/27/2020,Córdoba,0,1
+05/27/2020,Corrientes,2,0
+05/27/2020,Neuquén,2,0
+05/27/2020,Rio Negro,8,0
+05/27/2020,San Juan,1,0
+05/27/2020,"Tierra del Fuego, Antartida e islas del atlantico sur",1,0
+05/28/2020,Buenos Aires,299,4
+05/28/2020,Capital Federal,425,3
+05/28/2020,Chaco,28,1
+05/28/2020,Chubut,3,0
+05/28/2020,Corrientes,1,0
+05/28/2020,Entre Rios,1,0
+05/28/2020,Jujuy,1,0
+05/28/2020,Misiones,2,0
+05/28/2020,Neuquén,3,0
+05/28/2020,Rio Negro,7,0
+05/29/2020,Buenos Aires,273,5
+05/29/2020,Capital Federal,398,6
+05/29/2020,Chaco,26,1
+05/29/2020,Corrientes,6,0
+05/29/2020,Neuquén,2,0
+05/29/2020,Rio Negro,12,0
+05/30/2020,Buenos Aires,296,2
+05/30/2020,Capital Federal,459,2
+05/30/2020,Chaco,24,4
+05/30/2020,Chubut,2,0
+05/30/2020,Entre Rios,1,0
+05/30/2020,Mendoza,3,0
+05/30/2020,Neuquén,1,0
+05/30/2020,Rio Negro,5,0
+05/30/2020,Salta,1,0
+05/30/2020,Santa Fe,2,0
+05/30/2020,Tucumán,1,0
+05/31/2020,Buenos Aires,254,6
+05/31/2020,Capital Federal,358,5
+05/31/2020,Chaco,13,0
+05/31/2020,Córdoba,2,0
+05/31/2020,Corrientes,1,0
+05/31/2020,Misiones,1,0
+05/31/2020,Neuquén,3,0
+05/31/2020,Rio Negro,4,0
+05/31/2020,Santa Cruz,1,0
+06/01/2020,Buenos Aires,252,5
+06/01/2020,Capital Federal,274,8
+06/01/2020,Chaco,3,3
+06/01/2020,Córdoba,0,1
+06/01/2020,Corrientes,6,0
+06/01/2020,Mendoza,8,0
+06/01/2020,Neuquén,3,0
+06/01/2020,Rio Negro,11,0
+06/01/2020,Salta,3,0
+06/01/2020,Santa Cruz,1,0
+06/01/2020,Santa Fe,3,0
+06/02/2020,Buenos Aires,488,8
+06/02/2020,Capital Federal,371,3
+06/02/2020,Chaco,30,2
+06/02/2020,Córdoba,1,0
+06/02/2020,Corrientes,2,0
+06/02/2020,Entre Rios,2,0
+06/02/2020,Neuquén,3,0
+06/02/2020,Rio Negro,3,0
+06/02/2020,Salta,4,0
+06/03/2020,Buenos Aires,442,6
+06/03/2020,Capital Federal,467,5
+06/03/2020,Chaco,6,1
+06/03/2020,Chubut,1,0
+06/03/2020,Córdoba,1,1
+06/03/2020,Entre Rios,2,0
+06/03/2020,Misiones,1,0
+06/03/2020,Neuquén,10,0
+06/03/2020,Rio Negro,16,1
+06/03/2020,Santa Fe,3,0
+06/04/2020,Buenos Aires,423,11
+06/04/2020,Capital Federal,437,12
+06/04/2020,Chaco,53,1
+06/04/2020,Córdoba,2,0
+06/04/2020,Misiones,1,0
+06/04/2020,Rio Negro,8,1
+06/04/2020,Santa Fe,5,0
+06/05/2020,Buenos Aires,371,8
+06/05/2020,Capital Federal,422,15
+06/05/2020,Chaco,29,1
+06/05/2020,Chubut,3,0
+06/05/2020,Córdoba,1,0
+06/05/2020,Entre Rios,4,0
+06/05/2020,Neuquén,1,0
+06/05/2020,Rio Negro,8,0
+06/05/2020,Santa Fe,1,0
+06/06/2020,Buenos Aires,457,2
+06/06/2020,Capital Federal,475,13
+06/06/2020,Chaco,19,0
+06/06/2020,Chubut,1,0
+06/06/2020,Córdoba,0,1
+06/06/2020,Entre Rios,10,0
+06/06/2020,Misiones,3,0
+06/06/2020,Neuquén,1,0
+06/06/2020,Rio Negro,15,0
+06/06/2020,Santa Fe,2,0
+06/07/2020,Buenos Aires,375,9
+06/07/2020,Capital Federal,359,4
+06/07/2020,Chaco,18,1
+06/07/2020,Chubut,5,0
+06/07/2020,Entre Rios,2,0
+06/07/2020,La Rioja,1,1
+06/07/2020,Misiones,3,0
+06/07/2020,Rio Negro,10,1
+06/07/2020,Salta,1,0
+06/08/2020,Buenos Aires,345,16
+06/08/2020,Capital Federal,420,9
+06/08/2020,Chaco,45,1
+06/08/2020,Chubut,1,0
+06/08/2020,Córdoba,1,0
+06/08/2020,Entre Rios,2,0
+06/08/2020,Mendoza,1,0
+06/08/2020,Rio Negro,11,2
+06/08/2020,Tucumán,0,1
+06/09/2020,Buenos Aires,545,13
+06/09/2020,Capital Federal,535,8
+06/09/2020,Chaco,28,2
+06/09/2020,Chubut,5,0
+06/09/2020,Córdoba,2,0
+06/09/2020,Corrientes,1,0
+06/09/2020,Entre Rios,2,0
+06/09/2020,Jujuy,2,0
+06/09/2020,Mendoza,1,0
+06/09/2020,Neuquén,5,0
+06/09/2020,Rio Negro,13,1
+06/09/2020,Santa Fe,2,0
+06/10/2020,Buenos Aires,622,7
+06/10/2020,Capital Federal,522,11
+06/10/2020,Chaco,45,0
+06/10/2020,Córdoba,5,0
+06/10/2020,Entre Rios,4,0
+06/10/2020,Neuquén,10,0
+06/10/2020,Rio Negro,12,0
+06/10/2020,Salta,1,0
+06/10/2020,San Juan,1,0
+06/10/2020,Santa Fe,4,0
+06/11/2020,Buenos Aires,756,19
+06/11/2020,Capital Federal,538,7
+06/11/2020,Chaco,48,2
+06/11/2020,Córdoba,3,0
+06/11/2020,Corrientes,3,0
+06/11/2020,Entre Rios,6,0
+06/11/2020,Mendoza,1,0
+06/11/2020,Misiones,1,1
+06/11/2020,Neuquén,14,0
+06/11/2020,Rio Negro,14,1
+06/11/2020,Santa Fe,2,0
+06/12/2020,Buenos Aires,744,11
+06/12/2020,Capital Federal,565,4
+06/12/2020,Chaco,39,3
+06/12/2020,Chubut,4,1
+06/12/2020,Córdoba,9,1
+06/12/2020,Entre Rios,4,0
+06/12/2020,Formosa,1,0
+06/12/2020,Mendoza,2,0
+06/12/2020,Neuquén,6,0
+06/12/2020,Rio Negro,16,0
+06/12/2020,Tucumán,1,0
+06/13/2020,Buenos Aires,849,19
+06/13/2020,Capital Federal,558,7
+06/13/2020,Chaco,49,0
+06/13/2020,Chubut,9,0
+06/13/2020,Córdoba,6,0
+06/13/2020,Corrientes,1,0
+06/13/2020,Entre Rios,2,0
+06/13/2020,Formosa,26,0
+06/13/2020,Jujuy,0,1
+06/13/2020,Neuquén,13,0
+06/13/2020,Rio Negro,13,3
+06/13/2020,Salta,2,0
+06/13/2020,San Juan,1,0
+06/13/2020,Santa Fe,1,0
+06/13/2020,Tucumán,1,0
+06/14/2020,Buenos Aires,635,9
+06/14/2020,Capital Federal,558,5
+06/14/2020,Chaco,27,3
+06/14/2020,Chubut,2,0
+06/14/2020,Córdoba,6,1
+06/14/2020,Corrientes,2,0
+06/14/2020,Entre Rios,15,0
+06/14/2020,Formosa,6,0
+06/14/2020,La Pampa,1,0
+06/14/2020,Mendoza,7,0
+06/14/2020,Neuquén,9,0
+06/14/2020,Rio Negro,6,0
+06/14/2020,Salta,2,0
+06/14/2020,Tucumán,6,0
+06/15/2020,Buenos Aires,0,5
+06/15/2020,Capital Federal,0,4
