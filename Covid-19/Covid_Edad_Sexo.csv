@@ -1,0 +1,1151 @@
+cant,fecha,viajo_a,contacto_estrecho,provincia,factor_agravante,edad_hombre,edad_mujer,cant_hombre,cant_mujer,acumulado_hombre,acumulado_mujer,sexo
+1,9/03/2020,Francia,-,CABA,,64,,1,0,1,0,Masculino
+2,13/03/2020,Europa,-,Chaco,,61,,1,0,2,0,Masculino
+3,19/03/2020,-,Si,CABA,,64,,1,0,3,0,Masculino
+4,21/03/2020,Rep. Dominicana y Caribe,-,-,,,67,0,1,3,1,Femenino
+5,24/03/2020,-,Si,Chaco,,53,,1,0,4,1,Masculino
+6,24/03/2020,-,-,-,,71,,1,0,5,1,Masculino
+7,25/03/2020,-,-,Chaco,,,73,0,1,5,2,Femenino
+8,25/03/2020,-,Si,CABA,,,81,0,1,5,3,Femenino
+9,26/03/2020,-,-,CABA,,,82,0,1,5,4,Femenino
+10,26/03/2020,-,-,Buenos Aires,,89,,1,0,6,4,Masculino
+11,26/03/2020,-,-,Buenos Aires,,78,,1,0,7,4,Masculino
+12,26/03/2020,EE.UU.,-,Chaco,,70,,1,0,8,4,Masculino
+13,27/03/2020,Italia,,-,,59,,1,0,9,4,Masculino
+14,27/03/2020,-,-,-,,81,,1,0,10,4,Masculino
+15,27/03/2020,-,-,-,,73,,1,0,11,4,Masculino
+16,27/03/2020,-,-,-,,,72,0,1,11,5,Femenino
+17,27/03/2020,EE.UU.,-,-,,70,,1,0,12,5,Masculino
+18,28/03/2020,España y Egipto,-,Buenos Aires,,51,,1,0,13,5,Masculino
+19,28/03/2020,-,Si - Un viajero a Italia,CABA,,,84,0,1,13,6,Femenino
+20,29/03/2020,-,Si,Buenos Aires,EPOC,58,,1,0,14,6,Masculino
+21,30/03/2020,Europa,-,Buenos Aires,,58,,1,0,15,6,Masculino
+22,30/03/2020,-,-,Neuquén,-,,68,0,1,15,7,Femenino
+23,30/03/2020,-,-,Tucumán,-,,77,0,1,15,8,Femenino
+24,30/03/2020,-,-,Buenos Aires,-,67,,1,0,16,8,Masculino
+25,31/03/2020,-,Si,Chaco,-,,63,0,1,16,9,Femenino
+26,31/03/2020,-,-,La Rioja,-,,52,0,1,16,10,Femenino
+27,31/03/2020,-,-,Córdoba,-,,89,0,1,16,11,Femenino
+28,1/04/2020,-,-,Buenos Aires,-,71,,1,0,17,11,Masculino
+29,1/04/2020,-,-,Santa Fe,-,59,,1,0,18,11,Masculino
+30,1/04/2020,-,-,Buenos Aires,-,,63,0,1,18,12,Femenino
+31,1/04/2020,-,-,CABA,-,55,,1,0,19,12,Masculino
+32,1/04/2020,Italia,-,Neuquén,-,78,,1,0,20,12,Masculino
+33,2/04/2020,,,Mendoza,,73,,1,0,21,12,Masculino
+34,2/04/2020,,,Chaco,,61,,1,0,22,12,Masculino
+35,2/04/2020,,,Buenos Aires,,41,,1,0,23,12,Masculino
+36,2/04/2020,,,Buenos Aires,,,46,0,1,23,13,Femenino
+37,3/04/2020,,,Mendoza,,76,,1,0,24,13,Masculino
+38,3/04/2020,,Si,Chaco,Diabetes,60,,1,0,25,13,Masculino
+39,3/04/2020,,,Tucuman,,65,,1,0,26,13,Masculino
+40,3/04/2020,,,Buenos Aires,,72,,1,0,27,13,Masculino
+41,3/04/2020,,,Buenos Aires,,,53,0,1,27,14,Femenino
+42,3/04/2020,,,Buenos Aires,,87,,1,0,28,14,Masculino
+43,4/04/2020,,,Buenos Aires,,73,,1,0,29,14,Masculino
+44,4/04/2020,,,CABA,,89,,1,0,30,14,Masculino
+45,5/04/2020,,,Buenos Aires,,72,,1,0,31,14,Masculino
+46,5/04/2020,,,Córdoba,,66,,1,0,32,14,Masculino
+47,6/04/2020,,,Buenos Aires,,81,,1,0,33,14,Masculino
+48,6/04/2020,,,CABA,,60,,1,0,34,14,Masculino
+49,6/04/2020,,,CABA,,75,,1,0,35,14,Masculino
+50,6/04/2020,,,CABA,,67,,1,0,36,14,Masculino
+51,6/04/2020,,,CABA,,77,,1,0,37,14,Masculino
+52,6/04/2020,,,Neuquén,,68,,1,0,38,14,Masculino
+53,6/04/2020,,,Buenos Aires,,83,,1,0,39,14,Masculino
+54,7/04/2020,,,Buenos Aires,,81,,1,0,40,14,Masculino
+55,7/04/2020,España,,Mendoza,,44,,1,0,41,14,Masculino
+56,7/04/2020,,,Buenos Aires,,66,,1,0,42,14,Masculino
+57,7/04/2020,,,Buenos Aires,,51,,1,0,43,14,Masculino
+58,7/04/2020,,,Buenos Aires,,82,,1,0,44,14,Masculino
+59,7/04/2020,,,CABA,,80,,1,0,45,14,Masculino
+60,7/04/2020,,,CABA,,68,,1,0,46,14,Masculino
+61,8/04/2020,,,Tucumán,,,61,0,1,46,15,Femenino
+62,8/04/2020,,,Buenos Aires,,,82,0,1,46,16,Femenino
+63,8/04/2020,,,CABA,,72,,1,0,47,16,Masculino
+64,8/04/2020,,,Neuquén,,64,,1,0,48,16,Masculino
+65,8/04/2020,,,Río Negro,,66,,1,0,49,16,Masculino
+66,9/04/2020,,,CABA,,91,,1,0,50,16,Masculino
+67,9/04/2020,,,CABA,,95,,1,0,51,16,Masculino
+68,9/04/2020,,,CABA,,74,,1,0,52,16,Masculino
+69,9/04/2020,,,Buenos Aires,,,62,0,1,52,17,Femenino
+70,9/04/2020,,,Buenos Aires,,,61,0,1,52,18,Femenino
+71,9/04/2020,,,CABA,,,73,0,1,52,19,Femenino
+72,9/04/2020,,,CABA,,,47,0,1,52,20,Femenino
+73,9/04/2020,,,Buenos Aires,,83,,1,0,53,20,Masculino
+74,9/04/2020,,,Buenos Aires,,60,,1,0,54,20,Masculino
+75,9/04/2020,,,Buenos Aires,,81,,1,0,55,20,Masculino
+76,9/04/2020,,,Buenos Aires,,78,,1,0,56,20,Masculino
+77,9/04/2020,,,Buenos Aires,,40,,1,0,57,20,Masculino
+78,9/04/2020,,,Chaco,,70,,1,0,58,20,Masculino
+79,9/04/2020,,,Santa Fe,,64,,1,0,59,20,Masculino
+80,10/04/2020,,,CABA,,,87,0,1,59,21,Femenino
+81,10/04/2020,,,Río Negro,,66,,1,0,60,21,Masculino
+82,10/04/2020,,,Buenos Aires,Diabetes y asma,67,,1,0,61,21,Masculino
+83,11/04/2020,,,CABA,,,71,0,1,61,22,Femenino
+84,11/04/2020,,,Buenos Aires,,,82,0,1,61,23,Femenino
+85,11/04/2020,,,CABA,,69,,1,0,62,23,Masculino
+86,11/04/2020,,,CABA,,71,,1,0,63,23,Masculino
+87,11/04/2020,,,Buenos Aires,,47,,1,0,64,23,Masculino
+88,11/04/2020,,,Buenos Aires,,79,,1,0,65,23,Masculino
+89,11/04/2020,,,Buenos Aires,,62,,1,0,66,23,Masculino
+90,12/04/2020,,,Córdoba,,79,,1,0,67,23,Masculino
+91,12/04/2020,,,Buenos Aires,,,67,0,1,67,24,Femenino
+92,12/04/2020,,,Buenos Aires,,,77,0,1,67,25,Femenino
+93,12/04/2020,,,Córdoba,,80,,1,0,68,25,Masculino
+94,12/04/2020,,,Buenos Aires,,90,,1,0,69,25,Masculino
+95,12/04/2020,,,CABA,,64,,1,0,70,25,Masculino
+96,13/04/2020,,,Córdoba,,70,,1,0,71,25,Masculino
+97,13/04/2020,,,CABA,,86,,1,0,72,25,Masculino
+98,13/04/2020,,,Buenos Aires,,,75,0,1,72,26,Femenino
+99,14/04/2020,,,CABA,,75,,1,0,73,26,Masculino
+100,14/04/2020,,,Chaco,,54,,1,0,74,26,Masculino
+101,14/04/2020,,,Río Negro,,40,,1,0,75,26,Masculino
+102,14/04/2020,,,CABA,,76,,1,0,76,26,Masculino
+103,14/04/2020,,,Buenos Aires,,81,,1,0,77,26,Masculino
+104,14/04/2020,,,Córdoba,,,78,0,1,77,27,Femenino
+105,14/04/2020,,,Buenos Aires,,,91,0,1,77,28,Femenino
+106,14/04/2020,,,CABA,,,80,0,1,77,29,Femenino
+107,14/04/2020,,,CABA,,,94,0,1,77,30,Femenino
+108,14/04/2020,,,La Rioja,,,79,0,1,77,31,Femenino
+109,14/04/2020,,,CABA,,57,,1,0,78,31,Masculino
+110,15/04/2020,,,Buenos Aires,,,53,0,1,78,32,Femenino
+111,15/04/2020,,,Córdoba,,,67,0,1,78,33,Femenino
+112,15/04/2020,,,CABA,,70,,1,0,79,33,Masculino
+113,15/04/2020,,,CABA,,,94,0,1,79,34,Femenino
+114,15/04/2020,,,Buenos Aires,,,76,0,1,79,35,Femenino
+115,15/04/2020,,,Buenos Aires,,81,,1,0,80,35,Masculino
+116,16/04/2020,,,Buenos Aires,,54,,1,0,81,35,Masculino
+117,16/04/2020,,,Buenos Aires,,79,,1,0,82,35,Masculino
+118,16/04/2020,,,Buenos Aires,,92,,1,0,83,35,Masculino
+119,16/04/2020,,,Mendoza,,85,,1,0,84,35,Masculino
+120,16/04/2020,,,CABA,,86,,1,0,85,35,Masculino
+121,16/04/2020,,,CABA,,95,,1,0,86,35,Masculino
+122,16/04/2020,,,Chaco,,69,,1,0,87,35,Masculino
+123,17/04/2020,,,Mendoza,,62,,1,0,88,35,Masculino
+124,17/04/2020,,,Mendoza,,74,,1,0,89,35,Masculino
+125,17/04/2020,,,Buenos Aires,,95,,1,0,90,35,Masculino
+126,17/04/2020,,,Buenos Aires,,80,,1,0,91,35,Masculino
+127,17/04/2020,,,CABA,,57,,1,0,92,35,Masculino
+128,17/04/2020,,,La Rioja,,,64,0,1,92,36,Femenino
+129,17/04/2020,,,Buenos Aires,,,95,0,1,92,37,Femenino
+130,18/04/2020,,,Buenos Aires,,27,,1,0,93,37,Masculino
+131,18/04/2020,,,Buenos Aires,,47,,1,0,94,37,Masculino
+132,18/04/2020,,,CABA,,88,,1,0,95,37,Masculino
+133,19/04/2020,,,Buenos Aires,,93,,1,0,96,37,Masculino
+134,19/04/2020,,,Córdoba,,74,,1,0,97,37,Masculino
+135,20/04/2020,,,Chaco,,,78,0,1,97,38,Femenino
+136,20/04/2020,,,Mendoza,,90,,1,0,98,38,Masculino
+137,20/04/2020,,,Río Negro,,,86,0,1,98,39,Femenino
+138,20/04/2020,,,Río Negro,,,63,0,1,98,40,Femenino
+139,20/04/2020,,,Río Negro,,,77,0,1,98,41,Femenino
+140,20/04/2020,,,CABA,,,90,0,1,98,42,Femenino
+141,20/04/2020,,,Córdoba,,,84,0,1,98,43,Femenino
+142,20/04/2020,,,Córdoba,,,85,0,1,98,44,Femenino
+143,21/04/2020,,,Buenos Aires,,,53,0,1,98,45,Femenino
+144,21/04/2020,,,Buenos Aires,,64,,1,0,99,45,Masculino
+145,21/04/2020,,,Buenos Aires,,84,,1,0,100,45,Masculino
+146,21/04/2020,,,La Rioja,,,76,0,1,100,46,Femenino
+147,21/04/2020,,,Buenos Aires,,,62,0,1,100,47,Femenino
+148,21/04/2020,,,CABA,,76,,1,0,101,47,Masculino
+149,21/04/2020,,,CABA,,77,,1,0,102,47,Masculino
+150,21/04/2020,,,CABA,,83,,1,0,103,47,Masculino
+151,21/04/2020,,,La Rioja,,86,,1,0,104,47,Masculino
+152,21/04/2020,,,CABA,,82,,1,0,105,47,Masculino
+153,22/04/2020,,,Buenos Aires,,,88,0,1,105,48,Femenino
+154,22/04/2020,,,Buenos Aires,,,85,0,1,105,49,Femenino
+155,22/04/2020,,,CABA,,,57,0,1,105,50,Femenino
+156,22/04/2020,,,Córdoba,,,84,0,1,105,51,Femenino
+157,22/04/2020,,,Buenos Aires,,55,,1,0,106,51,Masculino
+158,22/04/2020,,,Buenos Aires,,60,,1,0,107,51,Masculino
+159,22/04/2020,,,Buenos Aires,,57,,1,0,108,51,Masculino
+160,23/04/2020,,,Buenos Aires,,,86,0,1,108,52,Femenino
+161,23/04/2020,,,Buenos Aires,,,68,0,1,108,53,Femenino
+162,23/04/2020,,,Buenos Aires,,,75,0,1,108,54,Femenino
+163,23/04/2020,,,Buenos Aires,,55,,1,0,109,54,Masculino
+164,23/04/2020,,,CABA,,76,,1,0,110,54,Masculino
+165,23/04/2020,,,Mendoza,,59,,1,0,111,54,Masculino
+166,24/04/2020,,,Buenos Aires,,56,,1,0,112,54,Masculino
+167,24/04/2020,,,Buenos Aires,,93,,1,0,113,54,Masculino
+168,24/04/2020,,,CABA,,,89,0,1,113,55,Femenino
+169,24/04/2020,,,CABA,,,,1,1,114,56,Femenino
+170,24/04/2020,,,Buenos Aires,,,89,0,1,114,57,Femenino
+171,24/04/2020,,,Córdoba,,,85,0,1,114,58,Femenino
+172,24/04/2020,,,CABA,,76,,1,0,115,58,Masculino
+173,24/04/2020,,,CABA,,31,,1,0,116,58,Masculino
+174,24/04/2020,,,Misiones,,61,,1,0,117,58,Masculino
+175,24/04/2020,,,Buenos Aires,,68,,1,0,118,58,Masculino
+176,24/04/2020,,,Chaco,,45,,1,0,119,58,Masculino
+177,25/04/2020,,,CABA,,48,,1,0,120,58,Masculino
+178,25/04/2020,,,CABA,,,75,0,1,120,59,Femenino
+179,25/04/2020,,,La Rioja,,,85,0,1,120,60,Femenino
+180,25/04/2020,,,CABA,,,67,0,1,120,61,Femenino
+181,25/04/2020,,,CABA,,,80,0,1,120,62,Femenino
+182,25/04/2020,,,Córdoba,,,90,0,1,120,63,Femenino
+183,25/04/2020,,,Buenos Aires,,60,,1,0,121,63,Masculino
+184,25/04/2020,,,Buenos Aires,,86,,1,0,122,63,Masculino
+185,25/04/2020,,,Río Negro,,85,,1,0,123,63,Masculino
+186,26/04/2020,,,CABA,,,93,0,1,123,64,Femenino
+187,26/04/2020,,,CABA,,,63,0,1,123,65,Femenino
+188,26/04/2020,,,CABA,,,93,0,1,123,66,Femenino
+189,26/04/2020,,,CABA,,,79,0,1,123,67,Femenino
+190,26/04/2020,,,CABA,,,75,0,1,123,68,Femenino
+191,26/04/2020,,,Buenos Aires,,83,,1,0,124,68,Masculino
+192,26/04/2020,,,Buenos Aires,,75,,1,0,125,68,Masculino
+193,27/04/2020,,,Buenos Aires,,,81,0,1,125,69,Femenino
+194,27/04/2020,,,Córdoba,,,70,0,1,125,70,Femenino
+195,27/04/2020,,,CABA,,81,,1,0,126,70,Masculino
+196,27/04/2020,,,CABA,,68,,1,0,127,70,Masculino
+197,27/04/2020,,,Chaco,,90,,1,0,128,70,Masculino
+198,28/04/2020,,,Buenos Aires,,,87,0,1,128,71,Femenino
+199,28/04/2020,,,Buenos Aires,,,80,0,1,128,72,Femenino
+200,28/04/2020,,,Buenos Aires,,,83,0,1,128,73,Femenino
+201,28/04/2020,,,Buenos Aires,,,69,0,1,128,74,Femenino
+202,28/04/2020,,,Buenos Aires,,,61,0,1,128,75,Femenino
+203,28/04/2020,,,CABA,,,84,0,1,128,76,Femenino
+204,28/04/2020,,,Córdoba,,,85,0,1,128,77,Femenino
+205,28/04/2020,,,Neuquén,,,70,0,1,128,78,Femenino
+206,28/04/2020,,,Buenos Aires,,71,,1,0,129,78,Masculino
+207,28/04/2020,,,CABA,,86,,1,0,130,78,Masculino
+208,29/04/2020,,,CABA,,,92,0,1,130,79,Femenino
+209,29/04/2020,,,CABA,,,96,0,1,130,80,Femenino
+210,29/04/2020,,,Buenos Aires,,,86,0,1,130,81,Femenino
+211,29/04/2020,,,Chaco,,,61,0,1,130,82,Femenino
+212,29/04/2020,,,Buenos Aires,,37,,1,0,131,82,Masculino
+213,29/04/2020,,,CABA,,86,,1,0,132,82,Masculino
+214,29/04/2020,,,Río Negro,,38,,1,0,133,82,Masculino
+215,30/04/2020,,,CABA,,71,,1,0,134,82,Masculino
+216,30/04/2020,,,Buenos Aires,,80,,1,0,135,82,Masculino
+217,30/04/2020,,,Buenos Aires,,61,,1,0,136,82,Masculino
+218,30/04/2020,,,CABA,,48,,1,0,137,82,Masculino
+219,01/05/2020,,,CABA,,57,,1,0,138,82,Masculino
+220,01/05/2020,,,Buenos Aires,,76,,1,0,139,82,Masculino
+221,01/05/2020,,,Buenos Aires,,,77,0,1,139,83,Femenino
+222,01/05/2020,,,Buenos Aires,,,82,0,1,139,84,Femenino
+223,01/05/2020,,,CABA,,,79,0,1,139,85,Femenino
+224,01/05/2020,,,CABA,,,74,0,1,139,86,Femenino
+225,01/05/2020,,,CABA,,72,,1,0,140,86,Masculino
+226,01/05/2020,,,Chaco,,86,,1,0,141,86,Masculino
+227,01/05/2020,,,Chaco,,33,,1,0,142,86,Masculino
+228,01/05/2020,,,CABA,,88,,1,0,143,86,Masculino
+229,01/05/2020,,,Buenos Aires,,,57,0,1,143,87,Femenino
+230,02/05/2020,,,Buenos Aires,,,93,0,1,143,88,Femenino
+231,02/05/2020,,,CABA,,,83,0,1,143,89,Femenino
+232,02/05/2020,,,CABA,,,84,0,1,143,90,Femenino
+233,02/05/2020,,,CABA,,,91,0,1,143,91,Femenino
+234,02/05/2020,,,Chaco,,,55,0,1,143,92,Femenino
+235,02/05/2020,,,CABA,,83,,1,0,144,92,Masculino
+236,02/05/2020,,,CABA,,87,,1,0,145,92,Masculino
+237,02/05/2020,,,Córdoba,,79,,1,0,146,92,Masculino
+238,02/05/2020,,,Buenos Aires,,75,,1,0,147,92,Masculino
+239,02/05/2020,,,CABA,,,99,0,1,147,93,Femenino
+240,02/05/2020,,,Buenos Aires,,,87,0,1,147,94,Femenino
+241,02/05/2020,,,Chaco,,,69,0,1,147,95,Femenino
+242,03/05/0202,,,Buenos Aires,,,71,0,1,147,96,Femenino
+243,03/05/0202,,,CABA,,,93,0,1,147,97,Femenino
+244,03/05/0202,,,Río Negro,,76,,1,0,148,97,Masculino
+245,03/05/0202,,,Córdoba,,88,,1,0,149,97,Masculino
+246,03/05/0202,,,Córdoba,,77,,1,0,150,97,Masculino
+247,04/052020,,,CABA,,,94,0,1,150,98,Femenino
+248,04/052020,,,CABA,,65,,1,0,151,98,Masculino
+249,04/052020,,,CABA,,93,,1,0,152,98,Masculino
+250,04/052020,,,CABA,,,94,0,1,152,99,Femenino
+251,04/052020,,,CABA,,,75,0,1,152,100,Femenino
+252,04/052020,,,Buenos Aires,,,89,0,1,152,101,Femenino
+253,04/052020,,,Buenos Aires,,53,,1,0,153,101,Masculino
+254,04/052020,,,Buenos Aires,,46,,1,0,154,101,Masculino
+255,04/052020,,,Buenos Aires,,60,,1,0,155,101,Masculino
+256,04/052020,,,Buenos Aires,,72,,1,0,156,101,Masculino
+257,04/052020,,,Buenos Aires,,84,,1,0,157,101,Masculino
+258,04/052020,,,Córdoba,,,91,0,1,157,102,Femenino
+259,04/052020,,,Córdoba,,,69,0,1,157,103,Femenino
+260,04/052020,,,Chaco,,72,,1,0,158,103,Masculino
+261,05/05/2020,,,Córdoba,,76,,1,0,159,103,Masculino
+262,05/05/2020,,,Córdoba,,75,,1,0,160,103,Masculino
+263,05/05/2020,,,Buenos Aires,,,75,0,1,160,104,Femenino
+264,05/05/2020,,,CABA,,,76,0,1,160,105,Femenino
+265,06/05/2020,,,Buenos Aires,,65,,1,0,161,105,Masculino
+266,06/05/2020,,,Buenos Aires,,60,,1,0,162,105,Masculino
+267,06/05/2020,,,Buenos Aires,,89,,1,0,163,105,Masculino
+268,06/05/2020,,,Río Negro,,91,,1,0,164,105,Masculino
+269,06/05/2020,,,CABA,,61,,1,0,165,105,Masculino
+270,06/05/2020,,,Buenos Aires,,,91,0,1,165,106,Femenino
+271,06/05/2020,,,Buenos Aires,,,80,0,1,165,107,Femenino
+272,06/05/2020,,,CABA,,,69,0,1,165,108,Femenino
+273,06/05/2020,,,,,,,0,1,165,109,Femenino
+274,07/05/2020,,,Buenos Aires,,85,,1,0,166,109,Masculino
+275,07/05/2020,,,Buenos Aires,,73,,1,0,167,109,Masculino
+276,07/05/2020,,,Buenos Aires,,77,,1,0,168,109,Masculino
+277,07/05/2020,,,Buenos Aires,,83,,1,0,169,109,Masculino
+278,07/05/2020,,,Santa fe,,63,,1,0,170,109,Masculino
+279,07/05/2020,,,CABA,,60,,1,0,171,109,Masculino
+280,07/05/2020,,,,,,86,0,1,171,110,Femenino
+281,07/05/2020,,,,,,88,0,1,171,111,Femenino
+282,07/05/2020,,,,,,94,0,1,171,112,Femenino
+283,08/05/2020,,,Buenos Aires,,,80,0,1,171,113,Femenino
+284,08/05/2020,,,CABA,,,89,0,1,171,114,Femenino
+285,08/05/2020,,,CABA,,59, ,0,0,171,114,Masculino
+286,08/05/2020,,,Buenos Aires,,51,,1,0,172,114,Masculino
+287,08/05/2020,,,Buenos Aires,,68,,1,0,173,114,Masculino
+288,08/05/2020,,,CABA,,91,,1,0,174,114,Masculino
+289,08/05/2020,,,Buenos Aires,,,83,0,1,174,115,Femenino
+290,08/05/2020,,,Buenos Aires,,,81,0,1,174,116,Femenino
+291,08/05/2020,,,CABA,,,98,0,1,174,117,Femenino
+292,08/05/2020,,,CABA,,,89,0,1,174,118,Femenino
+293,08/05/2020,,,CABA,,,94,0,1,174,119,Femenino
+294,09/05/2020,,,Buenos Aires,,71,,1,0,175,119,Masculino
+295,09/05/2020,,,Buenos Aires,,88,,1,0,176,119,Masculino
+296,09/05/2020,,,CABA,,84,,1,0,177,119,Masculino
+297,09/05/2020,,,CABA,,90,,1,0,178,119,Masculino
+298,09/05/2020,,,La Rioja,,79,,1,0,179,119,Masculino
+299,09/05/2020,,,Buenos Aires,,,81,0,1,179,120,Femenino
+300,09/05/2020,,,Buenos Aires,,,86,0,1,179,121,Femenino
+301,10/05/2020,,,Buenos Aires,,87,,1,0,180,121,Masculino
+302,10/05/2020,,,Buenos Aires,,74,,1,0,181,121,Masculino
+303,10/05/2020,,,Buenos Aires,,66,,1,0,182,121,Masculino
+304,10/05/2020,,,CABA,,50,,1,0,183,121,Masculino
+305,10/05/2020,,,CABA,,,90,0,1,183,122,Femenino
+306,11/05/2020,,,Buenos Aires,,74, ,1,0,184,122,Masculino
+307,11/05/2020,,,Buenos Aires,,38,,1,0,185,122,Masculino
+308,11/05/2020,,,CABA,,73,,1,0,186,122,Masculino
+309,11/05/2020,,,CABA,,83,,1,0,187,122,Masculino
+310,11/05/2020,,,Chaco,,75,,1,0,188,122,Masculino
+311,11/05/2020,,,Buenos Aires,,,85,0,1,188,123,Femenino
+312,11/05/2020,,,Buenos Aires,,,83,0,1,188,124,Femenino
+313,11/05/2020,,,CABA,,,91,0,1,188,125,Femenino
+314,11/05/2020,,,Río Negro,,,64,0,1,188,126,Femenino
+315,12/05/2020,,,Córdoba,,82, ,1,0,189,126,Masculino
+316,12/05/2020,,,Buenos Aires,,55, ,1,0,190,126,Masculino
+317,12/05/2020,,,Chaco,,,85,0,1,190,127,Femenino
+318,12/05/2020,,,CABA,,87,,1,0,191,127,Masculino
+319,12/05/2020,,,Buenos Aires,,,100,0,1,191,128,Femenino
+320,13/05/2020,,,CABA,,,82,0,1,191,129,Femenino
+321,13/05/2020,,,Buenos Aires,,,66,0,1,191,130,Femenino
+322,13/05/2020,,,CABA,,68,,1,0,192,130,Masculino
+323,13/05/2020,,,CABA,,79,,1,0,193,130,Masculino
+324,13/05/2020,,,CABA,,40,,1,0,194,130,Masculino
+325,13/05/2020,,,Buenos Aires,,78,,1,0,195,130,Masculino
+326,13/05/2020,,,Buenos Aires,,80,,1,0,196,130,Masculino
+327,13/05/2020,,,Chaco,,,57,0,1,196,131,Femenino
+328,13/05/2020,,,Buenos Aires,,,73,0,1,196,132,Femenino
+329,13/05/2020,,,CABA,,,79,0,1,196,133,Femenino
+330,14/05/2020,,,CABA,,,86,0,1,196,134,Femenino
+331,14/05/2020,,,CABA,,,89,0,1,196,135,Femenino
+332,14/05/2020,,,CABA,,,74,0,1,196,136,Femenino
+333,14/05/2020,,,CABA,,,71,0,1,196,137,Femenino
+334,14/05/2020,,,CABA,,,105,0,1,196,138,Femenino
+335,14/05/2020,,,Buenos Aires,,,76,0,1,196,139,Femenino
+336,14/05/2020,,,Buenos Aires,,,65,0,1,196,140,Femenino
+337,14/05/2020,,,Buenos Aires,,,76,0,1,196,141,Femenino
+338,14/05/2020,,,Buenos Aires, ,71,,1,0,197,141,Masculino
+339,14/05/2020,,,Buenos Aires,,80,,1,0,198,141,Masculino
+340,14/05/2020,,,Buenos Aires,,81,,1,0,199,141,Masculino
+341,14/05/2020,,,CABA,,71,,1,0,200,141,Masculino
+342,14/05/2020,,,CABA,,66,,1,0,201,141,Masculino
+343,14/05/2020,,,CABA,,69,,1,0,202,141,Masculino
+344,14/05/2020,,,CABA,,77,,1,0,203,141,Masculino
+345,14/05/2020,,,Buenos Aires,,48,,1,0,204,141,Masculino
+346,14/05/2020,,,Buenos Aires,,73,,1,0,205,141,Masculino
+347,14/05/2020,,,Buenos Aires,,62,,1,0,206,141,Masculino
+348,14/05/2020,,,Buenos Aires,,31,,1,0,207,141,Masculino
+349,14/05/2020,,,Chaco,,35,,1,0,208,141,Masculino
+350,14/05/2020,,,Río Negro,,65,,1,0,209,141,Masculino
+351,14/05/2020,,,CABA,,77,,1,0,210,141,Masculino
+352,14/05/2020,,,Buenos Aires,,,83,0,1,210,142,Femenino
+353,14/05/2020,,,Córdoba,,,90,0,1,210,143,Femenino
+354,15/0/2020,,,Buenos Aires,,90,,1,0,211,143,Masculino
+355,15/0/2020,,,Buenos Aires,,68,,1,0,212,143,Masculino
+356,15/0/2020,,,Chaco,,58,,1,0,213,143,Masculino
+357,16/05/2020,,,CABA,,72,,1,0,214,143,Masculino
+358,16/05/2020,,,CABA,,89,,1,0,215,143,Masculino
+359,16/05/2020,,,Chaco,,74,,1,0,216,143,Masculino
+360,16/05/2020,,,Buenos Aires,,55,,1,0,217,143,Masculino
+361,16/05/2020,,,CABA,,,96,0,1,217,144,Femenino
+362,16/05/2020,,,CABA,,,86,0,1,217,145,Femenino
+363,16/05/2020,,,Buenos Aires,,,1,0,1,217,146,Femenino
+364,17/05/2020,,,Chaco,,75,,1,0,218,146,Masculino
+365,17/05/2020,,,Buenos Aires,,56,,1,0,219,146,Masculino
+366,17/05/2020,,,Buenos Aires,,,47,0,1,219,147,Femenino
+367,17/05/2020,,,Río Negro,,72,,1,0,220,147,Masculino
+368,17/05/2020,,,Chaco,,51,,1,0,221,147,Masculino
+369,17/05/2020,,,Buenos Aires,,66,,1,0,222,147,Masculino
+370,17/05/2020,,,Córdoba,,50,,1,0,223,147,Masculino
+371,17/05/2020,,,CABA,,,42,0,1,223,148,Femenino
+372,17/05/2020,,,CABA,,,91,0,1,223,149,Femenino
+373,17/05/2020,,,Córdoba,,,71,0,1,223,150,Femenino
+374,18/05/2020,,,CABA,,61,,1,0,224,150,Masculino
+375,18/05/2020,,,Chaco,,58,,1,0,225,150,Masculino
+376,18/05/2020,,,Chaco,,65,,1,0,226,150,Masculino
+377,18/05/2020,,,Buenos Aires,,69,,1,0,227,150,Masculino
+378,18/05/2020,,,CABA,,91,,1,0,228,150,Masculino
+379,18/05/2020,,,CABA,,62,,1,0,229,150,Masculino
+380,18/05/2020,,,CABA,,,76,0,1,229,151,Femenino
+381,18/05/2020,,,CABA,,,96,0,1,229,152,Femenino
+382,18/05/2020,,,Buenos Aires,,,64,0,1,229,153,Femenino
+383,19/05/2020,,,Chaco,,61,,1,0,230,153,Masculino
+384,19/05/2020,,,Chaco,,,69,0,1,230,154,Femenino
+385,19/05/2020,,,CABA,,85,,1,0,231,154,Masculino
+386,19/05/2020,,,CABA,,74,,1,0,232,154,Masculino
+387,19/05/2020,,,CABA,,54,,1,0,233,154,Masculino
+388,19/05/2020,,,CABA,,51,,1,0,234,154,Masculino
+389,19/05/2020,,,Buenos Aires,,81,,1,0,235,154,Masculino
+390,19/05/2020,,,Buenos Aires,,66,,1,0,236,154,Masculino
+391,19/05/2020,,,Chaco,,,63,0,1,236,155,Femenino
+392,19/05/2020,,,Chaco,,,74,0,1,236,156,Femenino
+393,19/05/2020,,,CABA,,,86,0,1,236,157,Femenino
+394,20/05/2020,,,Buenos Aires,,47,,1,0,237,157,Masculino
+395,20/05/2020,,,Buenos Aires,,91,,1,0,238,157,Masculino
+396,20/05/2020,,,Buenos Aires,,63,,1,0,239,157,Masculino
+397,20/05/2020,,,Córdoba,,74,,1,0,240,157,Masculino
+398,20/05/2020,,,Río Negro,,83,,1,0,241,157,Masculino
+399,20/05/2020,,,Buenos Aires,,,75,0,1,241,158,Femenino
+400,20/05/2020,,,Buenos Aires,,,91,0,1,241,159,Femenino
+401,20/05/2020,,,CABA,,,49,0,1,241,160,Femenino
+402,20/05/2020,,,CABA,,,71,0,1,241,161,Femenino
+403,20/05/2020,,,Chaco,,,68,0,1,241,162,Femenino
+404,21/05/2020,,,Buenos Aires,,60,,1,0,242,162,Masculino
+405,21/05/2020,,,Buenos Aires,,19,,1,0,243,162,Masculino
+406,21/05/2020,,,Buenos Aires,,72,,1,0,244,162,Masculino
+407,21/05/2020,,,Buenos Aires,,75,,1,0,245,162,Masculino
+408,21/05/2020,,,Buenos Aires,,95,,1,0,246,162,Masculino
+409,21/05/2020,,,CABA,,84,,1,0,247,162,Masculino
+410,21/05/2020,,,CABA,,88,,1,0,248,162,Masculino
+411,21/05/2020,,,Chaco,,58,,1,0,249,162,Masculino
+412,21/05/2020,,,Chaco,,75,,1,0,250,162,Masculino
+413,21/05/2020,,,Buenos Aires,,,52,0,1,250,163,Femenino
+414,21/05/2020,,,Buenos Aires,,,89,0,1,250,164,Femenino
+415,21/05/2020,,,Buenos Aires,,,67,0,1,250,165,Femenino
+416,21/05/2020,,,Buenos Aires,,73,,1,0,251,165,Masculino
+417,22/05/2020,,,CABA,,,79,0,1,251,166,Femenino
+418,22/05/2020,,,CABA,,,80,0,1,251,167,Femenino
+419,22/05/2020,,,CABA,,,83,0,1,251,168,Femenino
+420,22/05/2020,,,CABA,,71,,1,0,252,168,Masculino
+421,22/05/2020,,,CABA,,80,,1,0,253,168,Masculino
+422,22/05/2020,,,Córdoba,,80,,1,0,254,168,Masculino
+423,22/05/2020,,,Buenos Aires,,59,,1,0,255,168,Masculino
+424,22/05/2020,,,Chaco,,56,,1,0,256,168,Masculino
+425,22/05/2020,,,Buenos Aires,,,83,0,1,256,169,Femenino
+426,22/05/2020,,,Buenos Aires,,,57,0,1,256,170,Femenino
+427,22/05/2020,,,Buenos Aires,,,94,0,1,256,171,Femenino
+428,22/05/2020,,,Buenos Aires,,,81,0,1,256,172,Femenino
+429,22/05/2020,,,CABA,,,88,0,1,256,173,Femenino
+430,22/05/2020,,,CABA,,,91,0,1,256,174,Femenino
+431,22/05/2020,,,Río Negro,,,69,0,1,256,175,Femenino
+432,22/05/2020,,,Río Negro,,,93,0,1,256,176,Femenino
+433,22/05/2020, ,,Chaco,,,53,0,1,256,177,Femenino
+434,23/05/2020,,,CABA,,82,,1,0,257,177,Masculino
+435,23/05/2020,,,CABA,,40,,1,0,258,177,Masculino
+436,23/05/2020,,,CABA,,43,,1,0,259,177,Masculino
+437,23/05/2020,,,CABA,,65,,1,0,260,177,Masculino
+438,23/05/2020,,,CABA,,57,,1,0,261,177,Masculino
+439,23/05/2020,,,CABA,,,63,0,1,261,178,Femenino
+440,23/05/2020,,,Buenos Aires,,92,,1,0,262,178,Masculino
+441,23/05/2020,,,Buenos Aires,,88,,1,0,263,178,Masculino
+442,23/05/2020,,,Chaco,,84,,1,0,264,178,Masculino
+443,23/05/2020,,,Buenos Aires,,,77,0,1,264,179,Femenino
+444,23/05/2020,,,Buenos Aires,,,91,0,1,264,180,Femenino
+445,23/05/2020,,,Chaco,,,86,0,1,264,181,Femenino
+446,24/05/2020,,,Buenos Aires,,92,,1,0,265,181,Masculino
+447,24/05/2020,,,CABA,,54,,1,0,266,181,Masculino
+448,24/05/2020,,,Chaco,,66,,1,0,267,181,Masculino
+449,24/05/2020,,,CABA,,96,,1,0,268,181,Masculino
+450,24/05/2020,,,CABA,,89,,1,0,269,181,Masculino
+451,24/05/2020,,,Buenos Aires,,54,,1,0,270,181,Masculino
+452,24/05/2020,,,Chaco,,,88,0,1,270,182,Femenino
+453,25/05/2020,,,CABA,,92,,1,0,271,182,Masculino
+454,25/05/2020,,,CABA,,70,,1,0,272,182,Masculino
+455,25/05/2020,,,Buenos Aires,,,44,0,1,272,183,Femenino
+456,25/05/2020,,,CABA,,,96,0,1,272,184,Femenino
+457,25/05/2020,,,CABA,,74,,1,0,273,184,Masculino
+458,25/05/2020,,,CABA,,59,,1,0,274,184,Masculino
+459,25/05/2020,,,CABA,,68,,1,0,275,184,Masculino
+460,25/05/2020,,,CABA,,57,,1,0,276,184,Masculino
+461,25/05/2020,,,Buenos Aires,,86,,1,0,277,184,Masculino
+462,25/05/2020,,,Buenos Aires,,69,,1,0,278,184,Masculino
+463,25/05/2020,,,Buenos Aires,,87,,1,0,279,184,Masculino
+464,25/05/2020,,,Río Negro,,,61,0,1,279,185,Masculino
+465,25/05/2020,,,Buenos Aires,,,76,0,1,279,186,Femenino
+466,25/05/2020,,,Córdoba,,,64,0,1,279,187,Femenino
+467,25/05/2020,,,CABA,,,59,0,1,279,188,Femenino
+468,26/05/2020, ,,CABA,, ,92,0,1,279,189,Femenino
+469,26/05/2020,,,CABA,, ,84,0,1,279,190,Femenino
+470,26/05/2020,,,Buenos Aires,, ,60,0,1,279,191,Femenino
+471,26/05/2020,,,Chaco,, ,57,0,1,279,192,Femenino
+472,26/05/2020,,,Buenos Aires,,71,,1,0,280,192,Masculino
+473,26/05/2020,,,Buenos Aires,,80,,1,0,281,192,Masculino
+474,26/05/2020,,,Buenos Aires,,43,,1,0,282,192,Masculino
+475,26/05/2020,,,Buenos Aires,,71,,1,0,283,192,Masculino
+476,26/05/2020,,,CABA,,84,,1,0,284,192,Masculino
+477,26/05/2020,,,CABA,,39,,1,0,285,192,Masculino
+478,26/05/2020,,,Chaco,,70,,1,0,286,192,Masculino
+479,26/05/2020,,,Buenos Aires,,,49,0,1,286,193,Femenino
+480,26/05/2020,,,Buenos Aires,,,82,0,1,286,194,Femenino
+481,26/05/2020,,,Buenos Aires,,,78,0,1,286,195,Femenino
+482,26/05/2020,,,Buenos Aires,,,89,0,1,286,196,Femenino
+483,26/05/2020,,,Buenos Aires,,,87,0,1,286,197,Femenino
+484,26/05/2020,,,CABA,,,62,0,1,286,198,Femenino
+485,27/05/2020,,,Córdoba,,81,,1,0,287,198,Masculino
+486,27/05/2020, ,,Buenos Aires,,65,,1,0,288,198,Masculino
+487,27/05/2020,,,Buenos Aires,,78,,1,0,289,198,Masculino
+488,27/05/2020,,,Buenos Aires,,75,,1,0,290,198,Masculino
+489,27/05/2020,,,Chaco,,66,,1,0,291,198,Masculino
+490,27/05/2020,,,CABA,,73,,1,0,292,198,Masculino
+491,27/05/2020,,,CABA,,,87,0,1,292,199,Femenino
+492,27/05/2020,,,CABA,,,95,0,1,292,200,Femenino
+493,27/05/2020,,,Buenos Aires,,,78,0,1,292,201,Femenino
+494,27/05/2020,,,Chaco,,,60,0,1,292,202,Femenino
+495,27/05/2020,,,,,,,,,292,202,
+496,27/05/2020,,,,,,,,,292,202,
+497,27/05/2020,,,,,,,,,292,202,
+498,27/05/2020,,,,,,,,,292,202,
+499,27/05/2020,,,,,,,,,292,202,
+500,27/05/2020,,,,,,,,,292,202,
+501,28/05/2020,,,Buenos Aires,, ,79,0,1,292,203,Femenino
+502,28/05/2020,,,CABA,,91,,1,0,293,203,Masculino
+503,28/05/2020,,,CABA,,90,,1,0,294,203,Masculino
+504,28/05/2020,,,Buenos Aires,,71,,1,0,295,203,Masculino
+505,28/05/2020,,,Buenos Aires,,34,,1,0,296,203,Masculino
+506,28/05/2020,,,Chaco,,87,,1,0,297,203,Masculino
+507,28/05/2020,,,Buenos Aires,,,78,0,1,297,204,Femenino
+508,28/05/2020,,,CABA,,,44,0,1,297,205,Femenino
+509,29/05/2020,,,Buenos Aires,,62,,1,0,298,205,Masculino
+510,29/05/2020,,,CABA,,43,,1,0,299,205,Masculino
+511,29/05/2020, ,,CABA,,46,,1,0,300,205,Masculino
+512,29/05/2020,,,CABA,,55,,1,0,301,205,Masculino
+513,29/05/2020,,,CABA,,32,,1,0,302,205,Masculino
+514,29/05/2020,,,Buenos Aires,,80,,1,0,303,205,Masculino
+515,29/05/2020,,,Buenos Aires,,,102,0,1,303,206,Femenino
+516,29/05/2020,,,Buenos Aires,,,93,0,1,303,207,Femenino
+517,29/05/2020,,,Buenos Aires,,,69,0,1,303,208,Femenino
+518,29/05/2020,,,CABA,,,78,0,1,303,209,Femenino
+519,29/05/2020,,,CABA,,,95,0,1,303,210,Femenino
+520,29/05/2020,,,Chaco,,,57,0,1,303,211,Femenino
+521,30/05/2020,,,Chaco,,68,,1,0,304,211,Masculino
+522,30/05/2020,,,Chaco,,69, ,1,0,305,211,Masculino
+523,30/05/2020,,,Chaco,,,87,0,1,305,212,Femenino
+524,30/05/2020,,,Chaco,,,3,0,1,305,213,Femenino
+525,30/05/2020,,,Buenos Aires,,64,,1,0,306,213,Masculino
+526,30/05/2020,,,CABA,,,95,0,1,306,214,Femenino
+527,30/05/2020,,,CABA,,,88,0,1,306,215,Femenino
+528,30/05/2020,,,Buenos Aires,,,94,0,1,306,216,Femenino
+529,31/05/2020,,,CABA,,,72,0,1,306,217,Femenino
+530,31/05/2020,,,CABA,,,47,0,1,306,218,Femenino
+531,31/05/2020,,,Buenos Aires,,62,,1,0,307,218,Masculino
+532,31/05/2020,,,Buenos Aires,,47,,1,0,308,218,Masculino
+533,31/05/2020,,,Buenos Aires,,91,,1,0,309,218,Masculino
+534,31/05/2020,,,Buenos Aires,,57,,1,0,310,218,Masculino
+535,31/05/2020,,,CABA,,86, ,1,0,311,218,Masculino
+536,31/05/2020,,,CABA,,,93,0,1,311,219,Femenino
+537,31/05/2020,,,CABA,,,68,0,1,311,220,Femenino
+538,31/05/2020,,,Buenos Aires,,,67,0,1,311,221,Femenino
+539,31/05/2020,,,Buenos Aires,,,85,0,1,311,222,Femenino
+540,01/06/0220, ,,CABA,,86,,1,0,312,222,Masculino
+541,01/06/2020,,,Buenos Aires,,69,,1,0,313,222,Masculino
+542,01/06/2020,,,Buenos Aires,,80,,1,0,314,222,Masculino
+543,01/06/2020,,,Buenos Aires,,56,,1,0,315,222,Masculino
+544,01/06/2020,,,Buenos Aires,,78,,1,0,316,222,Masculino
+545,01/06/2020,,,CABA,,72,,1,0,317,222,Masculino
+546,01/06/2020,,,CABA,,70,,1,0,318,222,Masculino
+547,01/06/2020,,,CABA,,50,,1,0,319,222,Masculino
+548,01/06/2020,,,Chaco,,44,,1,0,320,222,Masculino
+549,01/06/2020,,,Chaco,,47,,1,0,321,222,Masculino
+550,01/06/2020,,,Córdoba,,70,,1,0,322,222,Masculino
+551,01/06/2020,,,CABA,,,91,0,1,322,223,Femenino
+552,01/06/2020,,,CABA,,,92,0,1,322,224,Femenino
+553,01/06/2020,,,CABA,,,70,0,1,322,225,Femenino
+554,01/06/2020,,,CABA,,,83,0,1,322,226,Femenino
+555,01/06/2020,,,Chaco,,,14,0,1,322,227,Femenino
+556,01/06/2020,,,Buenos Aires,,,81,0,1,322,228,Femenino
+557,02/06/2020,,,Chaco,,64,,1,0,323,228,Masculino
+558,02/05/2020,,,Buenos Aires,,,39,0,1,323,229,Femenino
+559,02/05/2020,,,Buenos Aires,,,94,0,1,323,230,Femenino
+560,02/05/2020,,,Buenos Aires,,,88,0,1,323,231,Femenino
+561,02/05/2020,,,Buenos Aires,,84,,1,0,324,231,Masculino
+562,02/05/2020,,,Buenos Aires,,65,,1,0,325,231,Masculino
+563,02/05/2020,,,CABA,,53,,1,0,326,231,Masculino
+564,02/05/2020,,,CABA,,76,,1,0,327,231,Masculino
+565,02/05/2020,,,Buenos Aires,,,76,0,1,327,232,Femenino
+566,02/05/2020,,,Buenos Aires,,,86,0,1,327,233,Femenino
+567,02/05/2020,,,Buenos Aires,,,76,0,1,327,234,Femenino
+568,02/05/2020,,,Chaco,,,51,0,1,327,235,Femenino
+569,02/05/2020,,,CABA,,,92,0,1,327,236,Femenino
+570,03/06/2020,,,CABA,,,58,0,1,327,237,Femenino
+571,03/06/2020,,,Buenos Aires,,85,,1,0,328,237,Masculino
+572,03/06/2020,,,Buenos Aires,,75,,1,0,329,237,Masculino
+573,03/06/2020,,,Buenos Aires,,54,,1,0,330,237,Masculino
+574,03/06/2020,,,Buenos Aires,,59,,1,0,331,237,Masculino
+575,03/06/2020,,,CABA,,63,,1,0,332,237,Masculino
+576,03/06/2020,,,CABA,,58,,1,0,333,237,Masculino
+577,03/06/2020,,,Chaco,,83,,1,0,334,237,Masculino
+578,03/06/2020,,,Río Negro,,74,,1,0,335,237,Masculino
+579,03/06/2020,,,Buenos Aires,,,71,0,1,335,238,Femenino
+580,03/06/2020,,,Buenos Aires,,,72,0,1,335,239,Femenino
+581,03/06/2020,,,CABA,,,77,0,1,335,240,Femenino
+582,03/06/2020,,,CABA,,,78,0,1,335,241,Femenino
+583,03/06/2020,,,Córdoba,,,83,0,1,335,242,Femenino
+584,04/06/2020,,,CABA,,,84,0,1,335,243,Femenino
+585,04/06/2020,,,CABA,,,45,0,1,335,244,Femenino
+586,04/06/2020, ,,Buenos Aires,,,88,0,1,335,245,Masculino
+587,04/06/2020,,,Buenos Aires,,57,,1,0,336,245,Masculino
+588,04/06/2020,,,CABA,,56,,1,0,337,245,Masculino
+589,04/06/2020,,,Buenos Aires,,69,,1,0,338,245,Masculino
+590,04/06/2020,,,Buenos Aires,,90,,1,0,339,245,Masculino
+591,04/06/2020,,,Buenos Aires,,51,,1,0,340,245,Masculino
+592,04/06/2020,,,Buenos Aires,,64,,1,0,341,245,Masculino
+593,04/06/2020,,,Buenos Aires,,62,,1,0,342,245,Masculino
+594,04/06/2020,,,Buenos Aires,,84,,1,0,343,245,Masculino
+595,04/06/2020,,,Buenos Aires,,64,,1,0,344,245,Masculino
+596,04/06/2020, ,,Buenos Aires,,68,,1,0,345,245,Masculino
+597,04/06/2020,,,CABA,,36,,1,0,346,245,Masculino
+598,04/06/2020,,,CABA,,71,,1,0,347,245,Masculino
+599,04/06/2020,,,CABA,,64,,1,0,348,245,Masculino
+600,04/06/2020,,,CABA,,54,,1,0,349,245,Masculino
+601,04/06/2020,,,CABA,,89,,1,0,350,245,Masculino
+602,04/06/2020,,,Río Negro,,57,,1,0,351,245,Masculino
+603,04/06/2020,,,CABA,,,56,0,1,351,246,Femenino
+604,04/06/2020,,,CABA,,,88,0,1,351,247,Femenino
+605,04/06/2020,,,CABA,,,88,0,1,351,248,Femenino
+606,04/06/2020,,,CABA,,,85,0,1,351,249,Femenino
+607,04/06/2020,,,Buenos Aires,,,84,0,1,351,250,Femenino
+608,04/06/2020,,,Chaco,,,54,0,1,351,251,Femenino
+609,05/06/2020,,,CABA,,,42,0,1,351,252,Femenino
+610,05/06/2020, ,,CABA,,,84,0,1,351,253,Femenino
+611,05/06/2020,,,CABA,,,95,0,1,351,254,Femenino
+612,05/06/2020,,,Buenos Aires,,,79,0,1,351,255,Femenino
+613,05/06/2020,,,Chaco,,,48,0,1,351,256,Femenino
+614,05/06/2020,,,CABA,,69,,1,0,352,256,Masculino
+615,05/06/2020,,,CABA,,75,,1,0,353,256,Masculino
+616,05/06/2020,,,Buenos Aires,,77,,1,0,354,256,Masculino
+617,05/06/2020,,,Buenos Aires,,84,,1,0,355,256,Masculino
+618,05/06/2020,,,Buenos Aires,,76,,1,0,356,256,Masculino
+619,05/06/2020,,,Buenos Aires,,31,,1,0,357,256,Masculino
+620,05/06/2020,,,CABA,,38,,1,0,358,256,Masculino
+621,05/06/2020,,,CABA,,61,,1,0,359,256,Masculino
+622,05/06/2020,,,CABA,,50,,1,0,360,256,Masculino
+623,05/06/2020,,,CABA,,57,,1,0,361,256,Masculino
+624,05/06/2020,,,CABA,,46,,1,0,362,256,Masculino
+625,05/06/2020,,,CABA,,54,,1,0,363,256,Masculino
+626,05/06/2020,,,CABA,,92,,1,0,364,256,Masculino
+627,05/06/2020,,,CABA,,93,,1,0,365,256,Masculino
+628,05/06/2020,,,CABA,,,76,0,1,365,257,Femenino
+629,05/06/2020,,,CABA,,,63,0,1,365,258,Femenino
+630,05/06/2020,,,Buenos Aires,,,73,0,1,365,259,Femenino
+631,05/06/2020,,,Buenos Aires,,,67,0,1,365,260,Femenino
+632,05/06/2020,,,Buenos Aires,,,35,0,1,365,261,Femenino
+633,06/05/2020,,,CABA,,,98,0,1,365,262,Femenino
+634,06/05/2020,,,CABA,,,85,0,1,365,263,Femenino
+635,06/05/2020,,,CABA,,,77,0,1,365,264,Femenino
+636,06/05/2020,,,CABA,,,89,0,1,365,265,Femenino
+637,06/05/2020,,,CABA,,,81,0,1,365,266,Femenino
+638,06/05/2020,,,Córdoba,,,90,0,1,365,267,Femenino
+639,06/05/2020,,,Buenos Aires,,,50,0,1,365,268,Femenino
+640,06/05/2020,,,CABA,,64,,1,0,366,268,Masculino
+641,06/05/2020,,,CABA,,56,,1,0,367,268,Masculino
+642,06/05/2020,,,Buenos Aires,,67,,1,0,368,268,Masculino
+643,06/05/2020,,,CABA,,47,,1,0,369,268,Masculino
+644,06/05/2020,,,CABA,,73,,1,0,370,268,Masculino
+645,06/05/2020,,,CABA,,88,,1,0,371,268,Masculino
+646,06/05/2020,,,CABA,,60,,1,0,372,268,Masculino
+647,06/05/2020,,,CABA,,,77,0,1,372,269,Femenino
+648,06/05/2020,,,CABA,,,90,0,1,372,270,Femenino
+649,07/06/2020,,,CABA,,,79,0,1,372,271,Femenino
+650,07/06/2020,,,CABA,,,82,0,1,372,272,Femenino
+651,07/06/2020,,,CABA,,,88,0,1,372,273,Femenino
+652,07/06/2020,,,Chaco,,,82,0,1,372,274,Femenino
+653,07/06/2020,,,La Rioja,,,52,0,1,372,275,Femenino
+654,07/06/2020,,,Buenos Aires,,,58,0,1,372,276,Femenino
+655,07/06/2020,,,Buenos Aires,,,78,0,1,372,277,Femenino
+656,07/06/2020,,,Río Negro,,61,,1,0,373,277,Masculino
+657,07/06/2020,,,Buenos Aires,,71,,1,0,374,277,Masculino
+658,07/06/2020,,,Buenos Aires,,85,,1,0,375,277,Masculino
+659,07/06/2020,,,Buenos Aires,,56,,1,0,376,277,Masculino
+660,07/06/2020,,,Buenos Aires,,65,,1,0,377,277,Masculino
+661,07/06/2020, ,,CABA,,*,,1,0,378,277,Femenino
+662,07/06/2020,,,Buenos Aires,,,84,0,1,378,278,Femenino
+663,07/06/2020,,,Buenos Aires,,,69,0,1,378,279,Femenino
+664,07/06/2020,,,Buenos Aires,,,73,0,1,378,280,Femenino
+665,08/06/2020,,,Buenos Aires,,,90,0,1,378,281,Femenino
+666,08/06/2020,,,Buenos Aires,,,96,0,1,378,282,Femenino
+667,08/06/2020,,,Buenos Aires,,,89,0,1,378,283,Femenino
+668,08/06/2020,,,Buenos Aires,,,58,0,1,378,284,Femenino
+669,08/06/2020,,,CABA,,71,,1,0,379,284,Masculino
+670,08/06/2020,,,Buenos Aires,,59,,1,0,380,284,Masculino
+671,08/06/2020,,,Buenos Aires,,78,,1,0,381,284,Masculino
+672,08/06/2020,,,Buenos Aires,,40,,1,0,382,284,Masculino
+673,08/06/2020,,,Buenos Aires,,77,,1,0,383,284,Masculino
+674,08/06/2020,,,Buenos Aires,,42,,1,0,384,284,Masculino
+675,08/06/2020,,,Buenos Aires,,77,,1,0,385,284,Masculino
+676,08/06/2020,,,Buenos Aires,,74,,1,0,386,284,Masculino
+677,08/06/2020,,,Buenos Aires,,77,,1,0,387,284,Masculino
+678,08/06/2020,,,Buenos Aires,,74,,1,0,388,284,Masculino
+679,08/06/2020,,,CABA,,86,,1,0,389,284,Masculino
+680,08/06/2020,,,CABA,,66,,1,0,390,284,Masculino
+681,08/06/2020,,,CABA,,62,,1,0,391,284,Masculino
+682,08/06/2020,,,Chaco,,58,,1,0,392,284,Masculino
+683,08/06/2020,,,Río Negro,,58,,1,0,393,284,Masculino
+684,08/06/2020,,,Tucuman,,*,,1,0,394,284,Masculino
+685,08/06/2020,,,Buenos Aires,,,62,0,1,394,285,Femenino
+686,08/06/2020,,,Buenos Aires,,,77,0,1,394,286,Femenino
+687,08/06/2020,,,Buenos Aires,,,80,0,1,394,287,Femenino
+688,08/06/2020,,,CABA,,,76,0,1,394,288,Femenino
+689,08/06/2020,,,CABA,,,77,0,1,394,289,Femenino
+690,08/06/2020,,,CABA,,,86,0,1,394,290,Femenino
+691,08/06/2020,,,CABA,,,76,0,1,394,291,Femenino
+692,08/06/2020,,,CABA,,,88,0,1,394,292,Femenino
+693,08/06/2020,,,Río Negro,,,82,0,1,394,293,Femenino
+694,09/06/2020,,,Buenos Aires,,,88,0,1,394,294,Femenino
+695,09/06/2020,,,CABA,,62,,1,0,395,294,Masculino
+696,09/06/2020,,,Buenos Aires,,88,,1,0,396,294,Masculino
+697,09/06/2020,,,Chaco,,82,,1,0,397,294,Masculino
+698,09/06/2020,,,Chaco,,56,,1,0,398,294,Masculino
+699,09/06/2020,,,Buenos Aires,,58,,1,0,399,294,Masculino
+700,09/06/2020, ,,Buenos Aires,,49,,1,0,400,294,Masculino
+701,09/06/2020,,,Buenos Aires,,73,,1,0,401,294,Masculino
+702,09/06/2020,,,Buenos Aires,,72,,1,0,402,294,Masculino
+703,09/06/2020,,,Buenos Aires,,29,,1,0,403,294,Masculino
+704,09/06/2020,,,Buenos Aires,,77,,1,0,404,294,Masculino
+705,09/06/2020,,,Buenos Aires,,55,,1,0,405,294,Masculino
+706,09/06/2020,,,Buenos Aires,,35,,1,0,406,294,Masculino
+707,09/06/2020,,,Buenos Aires,,84,,1,0,407,294,Masculino
+708,09/06/2020,,,Buenos Aires,,,78,0,1,407,295,Femenino
+709,09/06/2020,,,Buenos Aires,,,71,0,1,407,296,Femenino
+710,09/06/2020,,,Buenos Aires,,,82,0,1,407,297,Femenino
+711,09/06/2020,,,Buenos Aires,,,99,0,1,407,298,Femenino
+712,09/06/2020,,,Buenos Aires,,,79,0,1,407,299,Femenino
+713,09/06/2020,,,CABA,,,76,0,1,407,300,Femenino
+714,09/06/2020,,,CABA,,,88,0,1,407,301,Femenino
+715,09/06/2020,,,CABA,,,61,0,1,407,302,Femenino
+716,09/06/2020,,,CABA,,,95,0,1,407,303,Femenino
+717,09/06/2020,,,Río Negro,,,82,0,1,407,304,Femenino
+718,10/06/2020,,,CABA,,96,,1,0,408,304,Masculino
+719,10/06/2020,,,CABA,,92,,1,0,409,304,Masculino
+720,10/06/2020,,,CABA,,87,,1,0,410,304,Masculino
+721,10/06/2020,,,CABA,,96,,1,0,411,304,Masculino
+722,10/06/2020,,,CABA,,49,,1,0,412,304,Masculino
+723,10/06/2020,,,CABA,,60,,1,0,413,304,Masculino
+724,10/06/2020,,,CABA,,66,,1,0,414,304,Masculino
+725,10/06/2020,,,CABA,,59,,1,0,415,304,Masculino
+726,10/06/2020,,,CABA,,78,,1,0,416,304,Masculino
+727,10/06/2020,,,Buenos Aires,,42,,1,0,417,304,Masculino
+728,10/06/2020,,,Buenos Aires,,67,,1,0,418,304,Masculino
+729,10/06/2020,,,Buenos Aires,,85,,1,0,419,304,Masculino
+730,10/06/2020,,,Buenos Aires,,86,,1,0,420,304,Masculino
+731,10/06/2020,,,Buenos Aires,,,76,,1,420,305,Femenino
+732,10/06/2020,,,Buenos Aires,,,78,,1,420,306,Femenino
+733,10/06/2020,,,Buenos Aires,,,7,,1,420,307,Femenino
+734,10/06/2020,,,CABA,,,95,,1,420,308,Femenino
+735,10/06/2020,,,CABA,,,62,,1,420,309,Femenino
+736,11/06/2020,,,Buenos Aires,,,63,0,1,420,310,Femenino
+737,11/06/2020,,,Buenos Aires,,,76,0,1,420,311,Femenino
+738,11/06/2020,,,Misiones,,,47,0,1,420,312,Femenino
+739,11/06/2020,,,CABA,, ,67,0,1,420,313,Femenino
+740,11/06/2020,,,Buenos Aires,,91,,1,0,421,313,Masculino
+741,11/06/2020,,,Buenos Aires,,49,,1,0,422,313,Masculino
+742,11/06/2020,,,CABA,,65,,1,0,423,313,Masculino
+743,11/06/2020,,,CABA,,32,,1,0,424,313,Masculino
+744,11/06/2020,,,CABA,,71,,1,0,425,313,Masculino
+745,11/06/2020,,,CABA,,68,,1,0,426,313,Masculino
+746,11/06/2020,,,CABA,,86,,1,0,427,313,Masculino
+747,11/06/2020,,,CABA,,64,,1,0,428,313,Masculino
+748,11/06/2020,,,Buenos Aires,,41,,1,0,429,313,Masculino
+749,11/06/2020,,,Buenos Aires,,35,,1,0,430,313,Masculino
+750,11/06/2020,,,Buenos Aires,,48,,1,0,431,313,Masculino
+751,11/06/2020,,,Buenos Aires,,69,,1,0,432,313,Masculino
+752,11/06/2020,,,Buenos Aires,,85,,1,0,433,313,Masculino
+753,11/06/2020,,,Buenos Aires,,70,,1,0,434,313,Masculino
+754,11/06/2020,,,Buenos Aires,,55,,1,0,435,313,Masculino
+755,11/06/2020,,,Buenos Aires,,85,,1,0,436,313,Masculino
+756,11/06/2020,,,Buenos Aires,,60,,1,0,437,313,Masculino
+757,11/06/2020,,,Buenos Aires,,82,,1,0,438,313,Masculino
+758,11/06/2020,,,Chaco,,55,,1,0,439,313,Masculino
+759,11/06/2020,,,Buenos Aires,,,80,0,1,439,314,Femenino
+760,11/06/2020,,,Buenos Aires,,,55,0,1,439,315,Femenino
+761,11/06/2020,,,Buenos Aires,,,59,0,1,439,316,Femenino
+762,11/06/2020,,,Buenos Aires,,,29,0,1,439,317,Femenino
+763,11/06/2020,,,Buenos Aires,,,84,0,1,439,318,Femenino
+764,11/06/2020,,,Río Negro,,,79,0,1,439,319,Femenino
+765,11/06/2020,,,CABA,,,46,0,1,439,320,Femenino
+766,12/06/2020,,,Buenos Aires,,,80,0,1,439,321,Femenino
+767,12/06/2020,,,Buenos Aires,,,72,0,1,439,322,Femenino
+768,12/06/2020,,,Chaco,,,71,0,1,439,323,Femenino
+769,12/06/2020,,,Buenos Aires,,81,,1,0,440,323,Masculino
+770,12/06/2020, ,,Chaco,,38,,1,0,441,323,Masculino
+771,12/06/2020,,,Chubut,,45,,1,0,442,323,Masculino
+772,12/06/2020,,,CABA,,85,,1,0,443,323,Masculino
+773,12/06/2020,,,Buenos Aires,,74,,1,0,444,323,Masculino
+774,12/06/2020,,,Buenos Aires,,78,,1,0,445,323,Masculino
+775,12/06/2020,,,Buenos Aires,,45,,1,0,446,323,Masculino
+776,12/06/2020,,,Buenos Aires,,81,,1,0,447,323,Masculino
+777,12/06/2020,,,Buenos Aires,,48,,1,0,448,323,Masculino
+778,12/06/2020,,,CABA,,69,,1,0,449,323,Masculino
+779,12/06/2020,,,Buenos Aires,,,89,0,1,449,324,Femenino
+780,12/06/2020,,,Buenos Aires,,,70,0,1,449,325,Femenino
+781,12/06/2020,,,Buenos Aires,,,72,0,1,449,326,Femenino
+782,12/06/2020,,,CABA,,,63,0,1,449,327,Femenino
+783,12/06/2020,,,CABA,,,58,0,1,449,328,Femenino
+784,12/06/2020,,,Chaco,,,77,0,1,449,329,Femenino
+785,12/06/2020,,,Córdoba,,,75,0,1,449,330,Femenino
+786,13/06/2020,,,Buenos Aires,,,51,0,1,449,331,Femenino
+787,13/06/2020,,,Buenos Aires,,,81,0,1,449,332,Femenino
+788,13/06/2020,,,Buenos Aires,,,92,0,1,449,333,Femenino
+789,13/06/2020,,,Buenos Aires,,,86,0,1,449,334,Femenino
+790,13/06/2020,,,Buenos Aires,,,78,0,1,449,335,Femenino
+791,13/06/2020,,,Buenos Aires,,,75,0,1,449,336,Femenino
+792,13/06/2020,,,CABA,,,86,0,1,449,337,Femenino
+793,13/06/2020,,,Jujuy,,52, ,1,0,450,337,Masculino
+794,13/06/2020,,,Buenos Aires,,14,,1,1,451,338,Masculino
+795,13/06/2020,,,Buenos Aires,,78,,1,1,452,339,Masculino
+796,13/06/2020,,,Buenos Aires,,67,,1,1,453,340,Masculino
+797,13/06/2020,,,Buenos Aires,,73,,1,1,454,341,Masculino
+798,13/06/2020,,,Buenos Aires,,82,,1,1,455,342,Masculino
+799,13/06/2020,,,Buenos Aires,,81,,1,1,456,343,Masculino
+800,13/06/2020,,,CABA,,65,,1,1,457,344,Masculino
+801,13/06/2020,,,CABA,,67,,1,1,458,345,Masculino
+802,13/06/2020,,,Río Negro,,37,,1,1,459,346,Masculino
+803,13/06/2020,,,Buenos Aires,,73,,1,0,460,346,Masculino
+804,13/06/2020,,,Buenos Aires,,62,,1,0,461,346,Masculino
+805,13/06/2020,,,Buenos Aires,,61,,1,0,462,346,Masculino
+806,13/06/2020,,,CABA,,87,,1,0,463,346,Masculino
+807,13/06/2020,,,CABA,,88,,1,0,464,346,Masculino
+808,13/06/2020,,,Río Negro,,64,,1,0,465,346,Masculino
+809,13/06/2020,,,Buenos Aires,,,45,0,1,465,347,Femenino
+810,13/06/2020,,,Buenos Aires,,,75,0,1,465,348,Femenino
+811,13/06/2020,,,Buenos Aires,,,29,0,1,465,349,Femenino
+812,13/06/2020,,,Buenos Aires,,,45,0,1,465,350,Femenino
+813,13/06/2020,,,CABA,,,74,0,1,465,351,Femenino
+814,13/06/2020,,,CABA,,,82,0,1,465,352,Femenino
+815,13/06/2020,,,Río Negro,,,73,0,1,465,353,Femenino
+816,14/06/2020,,,Buenos Aires,,,61,0,1,465,354,Femenino
+817,14/06/2020,,,Buenos Aires,,59,,1,0,466,354,Masculino
+818,14/06/2020,,,Buenos Aires,,78,,1,0,467,354,Masculino
+819,14/06/2020,,,CABA,,75,,1,0,468,354,Masculino
+820,14/06/2020,,,Buenos Aires,,89,,1,0,469,354,Masculino
+821,14/06/2020,,,Buenos Aires,,95,,1,0,470,354,Masculino
+822,14/06/2020,,,Buenos Aires,,50,,1,0,471,354,Masculino
+823,14/06/2020,,,Buenos Aires,,66,,1,0,472,354,Masculino
+824,14/06/2020,,,Buenos Aires,,51,,1,0,473,354,Masculino
+825,14/06/2020,,,CABA,,73,,1,0,474,354,Masculino
+826,14/06/2020,,,CABA,,62,,1,0,475,354,Masculino
+827,14/06/2020,,,CABA,,58,,1,0,476,354,Masculino
+828,14/06/2020,,,Chaco,,71,,1,0,477,354,Masculino
+829,14/06/2020,,,Chaco,,83,,1,0,478,354,Masculino
+830,14/06/2020,,,Córdoba,,66,,1,0,479,354,Masculino
+831,14/06/2020,,,Buenos Aires,,,93,0,1,479,355,Femenino
+832,14/06/2020,,,CABA,,,52,0,1,479,356,Femenino
+833,14/06/2020,,,Chaco,,,32,0,1,479,357,Femenino
+834,15/06/2020,,,Buenos Aires,,,53,0,1,479,358,Femenino
+835,15/06/2020,,,CABA,,,73,0,1,479,359,Femenino
+836,15/06/2020,,,CABA,,,83,0,1,479,360,Femenino
+837,15/06/2020, ,,CABA,,,88,0,1,479,361,Femenino
+838,15/06/2020,,,CABA,,96,,1,0,480,361,Masculino
+839,15/06/2020,,,Buenos Aires,,51,,1,0,481,361,Masculino
+840,15/06/2020,,,Buenos Aires,,48,,1,0,482,361,Masculino
+841,15/06/2020,,,Buenos Aires,,62,,1,0,483,361,Masculino
+842,15/06/2020,,,Buenos Aires,,78,,1,0,484,361,Masculino
+843,15/06/2020,,,Buenos Aires,,62,,1,0,485,361,Masculino
+844,15/06/2020,,,Buenos Aires,,63,,1,0,486,361,Masculino
+845,15/06/2020,,,Buenos Aires,,66,,1,0,487,361,Masculino
+846,15/06/2020,,,Buenos Aires,,68,,1,0,488,361,Masculino
+847,15/06/2020,,,Buenos Aires,,76,,1,0,489,361,Masculino
+848,15/06/2020,,,Buenos Aires,,54,,1,0,490,361,Masculino
+849,15/06/2020,,,Buenos Aires,,55,,1,0,491,361,Masculino
+850,15/06/2020,,,CABA,,40,,1,0,492,361,Masculino
+851,15/06/2020,,,CABA,,72,,1,0,493,361,Masculino
+852,15/06/2020,,,Río Negro,,67,,1,0,494,361,Masculino
+853,15/06/2020,,,Córdoba,,64,,1,0,495,361,Masculino
+854,15/06/2020,,,CABA,,,92,0,1,495,362,Femenino
+855,15/06/2020,,,Santa Fe,,,88,0,1,495,363,Femenino
+856,16/06/2020,,,Buenos Aires,,,50,0,1,495,364,Femenino
+857,16/06/2020,,,Buenos Aires,,,74,0,1,495,365,Femenino
+858,16/06/2020,,,CABA,,91,,1,0,496,365,Masculino
+859,16/06/2020,,,Buenos Aires,,80,,1,0,497,365,Masculino
+860,16/06/2020,,,Chaco,,29,,1,0,498,365,Masculino
+861,16/06/2020,,,Chaco,,35,,1,0,499,365,Masculino
+862,16/06/2020,,,Chaco,,76,,1,0,500,365,Masculino
+863,16/06/2020,,,Buenos Aires,,53,,1,0,501,365,Masculino
+864,16/06/2020,,,Buenos Aires,,71,,1,0,502,365,Masculino
+865,16/06/2020,,,CABA,,76,,1,0,503,365,Masculino
+866,16/06/2020,,,CABA,,69,,1,0,504,365,Masculino
+867,16/06/2020,,,CABA,,76,,1,0,505,365,Masculino
+868,16/06/2020,,,Chaco,,69,,1,0,506,365,Masculino
+869,16/06/2020,,,Chaco,,77,,1,0,507,365,Masculino
+870,16/06/2020,,,Buenos Aires,,,76,0,1,507,366,Femenino
+871,16/06/2020,,,Buenos Aires,,,51,0,1,507,367,Femenino
+872,16/06/2020,,,CABA,,,77,0,1,507,368,Femenino
+873,16/06/2020,,,CABA,,,90,0,1,507,369,Femenino
+874,16/06/2020,,,CABA,,,91,0,1,507,370,Femenino
+875,16/06/2020,,,CABA,,,86,0,1,507,371,Femenino
+876,16/06/2020,,,CABA,,,69,0,1,507,372,Femenino
+877,16/06/2020,,,CABA,,,80,0,1,507,373,Femenino
+878,16/06/2020,,,Neuquén,,,84,0,1,507,374,Femenino
+879,17/06/2020,,,CABA,,,87,0,1,507,375,Femenino
+880,17/06/2020,,,CABA,,,67,0,1,507,376,Femenino
+881,17/06/2020,,,CABA,,,87,0,1,507,377,Femenino
+882,17/06/2020,,,CABA,,51,,1,0,508,377,Masculino
+883,17/06/2020,,,CABA,,55,,1,0,509,377,Masculino
+884,17/06/2020,,,CABA,,64,,1,0,510,377,Masculino
+885,17/06/2020,,,CABA,,65,,1,0,511,377,Masculino
+886,17/06/2020,,,CABA,,77,,1,0,512,377,Masculino
+887,17/06/2020,,,Buenos Aires,,51,,1,0,513,377,Masculino
+888,17/06/2020,,,Buenos Aires,,67,,1,0,514,377,Masculino
+889,17/06/2020,,,Buenos Aires,,50,,1,0,515,377,Masculino
+890,17/06/2020,,,Buenos Aires,,78,,1,0,516,377,Masculino
+891,17/06/2020,,,Buenos Aires,,83,,1,0,517,377,Masculino
+892,17/06/2020,,,Buenos Aires,,66,,1,0,518,377,Masculino
+893,17/06/2020,,,Buenos Aires,,48,,1,0,519,377,Masculino
+894,17/06/2020,,,CABA,,93,,1,0,520,377,Masculino
+895,17/06/2020,,,CABA,,45,,1,0,521,377,Masculino
+896,17/06/2020,,,CABA,,81,,1,0,522,377,Masculino
+897,17/06/2020,,,CABA,,89,,1,0,523,377,Masculino
+898,17/06/2020,,,CABA,,71,,1,0,524,377,Masculino
+899,17/06/2020,,,CABA,,84,,1,0,525,377,Masculino
+900,17/06/2020,,,CABA,,89,,1,0,526,377,Masculino
+901,17/06/2020,,,CABA,,79,,1,0,527,377,Masculino
+902,17/06/2020,,,CABA,,89,,1,0,528,377,Masculino
+903,17/06/2020,,,Buenos Aires,,,61,0,1,528,378,Femenino
+904,17/06/2020,,,Buenos Aires,,,58,0,1,528,379,Femenino
+905,17/06/2020,,,Buenos Aires,,,66,0,1,528,380,Femenino
+906,17/06/2020,,,Buenos Aires,,,62,0,1,528,381,Femenino
+907,17/06/2020,,,Buenos Aires,,,25,0,1,528,382,Femenino
+908,17/06/2020,,,CABA,,,88,0,1,528,383,Femenino
+909,17/06/2020,,,CABA,,,96,0,1,528,384,Femenino
+910,17/06/2020,,,CABA,,,103,0,1,528,385,Femenino
+911,17/06/2020,,,CABA,,,82,0,1,528,386,Femenino
+912,17/06/2020,,,CABA,,,94,0,1,528,387,Femenino
+913,17/06/2020,,,CABA,,,97,0,1,528,388,Femenino
+914,18/06/2020,,,Buenos Aires,,90,,1,0,529,388,Masculino
+915,18/06/2020,,,Buenos Aires,,84,,1,0,530,388,Masculino
+916,18/06/2020,,,Buenos Aires,,70,,1,0,531,388,Masculino
+917,18/06/2020,,,Buenos Aires,,67,,1,0,532,388,Masculino
+918,18/06/2020,,,CABA,,53,,1,0,533,388,Masculino
+919,18/06/2020,,,CABA,,59,,1,0,534,388,Masculino
+920,18/06/2020,,,Río Negro,,74,,1,0,535,388,Masculino
+921,18/06/2020,,,Río Negro,,87,,1,0,536,388,Masculino
+922,18/06/2020,,,CABA,,,65,0,1,536,389,Femenino
+923,18/06/2020,,,CABA,,,70,0,1,536,390,Femenino
+924,18/06/2020,,,CABA,,,81,0,1,536,391,Femenino
+925,18/06/2020,,,CABA,,,77,0,1,536,392,Femenino
+926,18/06/2020,,,Buenos Aires,,,91,0,1,536,393,Femenino
+927,18/06/2020,,,Buenos Aires,,,47,0,1,536,394,Femenino
+928,18/06/2020,,,Chaco,,,57,0,1,536,395,Femenino
+929,18/06/2020,,,Neuquén,,,79,0,1,536,396,Femenino
+930,18/06/2020,,,Buenos Aires,,82,,1,0,537,396,Masculino
+931,18/06/2020,,,Buenos Aires,,100,,1,0,538,396,Masculino
+932,18/06/2020,,,Buenos Aires,,51,,1,0,539,396,Masculino
+933,18/06/2020,,,Buenos Aires,,69,,1,0,540,396,Masculino
+934,18/06/2020,,,CABA,,57,,1,0,541,396,Masculino
+935,18/06/2020,,,CABA,,52,,1,0,542,396,Masculino
+936,18/06/2020,,,CABA,,60,,1,0,543,396,Masculino
+937,18/06/2020,,,CABA,,65,,1,0,544,396,Masculino
+938,18/06/2020,,,CABA,,82,,1,0,545,396,Masculino
+939,18/06/2020,,,Río Negro,,78,,1,0,546,396,Masculino
+940,18/06/2020,,,Buenos Aires,,,70,0,1,546,397,Femenino
+941,18/06/2020,,,Buenos Aires,,,80,0,1,546,398,Femenino
+942,18/06/2020,,,Buenos Aires,,,92,0,1,546,399,Femenino
+943,18/06/2020,,,CABA,,,89,0,1,546,400,Femenino
+944,18/06/2020,,,CABA,,,74,0,1,546,401,Femenino
+945,18/06/2020,,,CABA,,,82,0,1,546,402,Femenino
+946,18/06/2020,,,CABA,,,47,0,1,546,403,Femenino
+947,18/06/2020,,,Chaco,,,47,0,1,546,404,Femenino
+948,18/06/2020,,,CABA,,,97,0,1,546,405,Femenino
+949,19/06/2020,,,Buenos Aires,,75,,1,0,547,405,Masculino
+950,19/06/2020,,,Chaco,,67,,1,0,548,405,Masculino
+951,19/06/2020,,,Buenos Aires,,,59,0,1,548,406,Femenino
+952,19/06/2020,,,Buenos Aires,,,90,0,1,548,407,Femenino
+953,19/06/2020,,,Buenos Aires,,,81,0,1,548,408,Femenino
+954,19/06/2020,,,Buenos Aires,,,45,0,1,548,409,Femenino
+955,19/06/2020,,,Buenos Aires,,66,,1,0,549,409,Masculino
+956,19/06/2020,,,Buenos Aires,,57,,1,0,550,409,Masculino
+957,19/06/2020,,,Buenos Aires,,71,,1,0,551,409,Masculino
+958,19/06/2020,,,Buenos Aires,,28,,1,0,552,409,Masculino
+959,19/06/2020,,,Buenos Aires,,58,,1,0,553,409,Masculino
+960,19/06/2020,,,Buenos Aires,,52,,1,0,554,409,Masculino
+961,19/06/2020,,,CABA,,63,,1,0,555,409,Masculino
+962,19/06/2020,,,CABA,,67,,1,0,556,409,Masculino
+963,19/06/2020,,,CABA,,74,,1,0,557,409,Masculino
+964,19/06/2020,,,CABA,,89,,1,0,558,409,Masculino
+965,19/06/2020,,,CABA,,44,,1,0,559,409,Masculino
+966,19/06/2020,,,CABA,,83,,1,0,560,409,Masculino
+967,19/06/2020,,,CABA,,53,,1,0,561,409,Masculino
+968,19/06/2020,,,CABA,,58,,1,0,562,409,Masculino
+969,19/06/2020,,,Chaco,,53,,1,0,563,409,Masculino
+970,19/06/2020,,,Chaco,,69,,1,0,564,409,Masculino
+971,19/06/2020,,,Chaco,,70,,1,0,565,409,Masculino
+972,19/06/2020,,,Buenos Aires,,,71,0,1,565,410,Femenino
+973,19/06/2020,,,Buenos Aires,,,82,0,1,565,411,Femenino
+974,19/06/2020,,,Buenos Aires,,,94,0,1,565,412,Femenino
+975,19/06/2020,,,Buenos Aires,,,72,0,1,565,413,Femenino
+976,19/06/2020,,,Buenos Aires,,,36,0,1,565,414,Femenino
+977,19/06/2020,,,CABA,,,89,0,1,565,415,Femenino
+978,19/06/2020,,,CABA,,,90,0,1,565,416,Femenino
+979,19/06/2020,,,CABA,,,47,0,1,565,417,Femenino
+980,20/06/2020,,,Buenos Aires,,93,,1,0,566,417,Masculino
+981,20/06/2020,,,Buenos Aires,,84,,1,0,567,417,Masculino
+982,20/06/2020,,,Buenos Aires,,79,,1,0,568,417,Masculino
+983,20/06/2020,,,Buenos Aires,,61,,1,0,569,417,Masculino
+984,20/06/2020,,,CABA,,87,,1,0,570,417,Masculino
+985,20/06/2020,,,CABA,,78,,1,0,571,417,Masculino
+986,20/06/2020,,,CABA,,50,,1,0,572,417,Masculino
+987,20/06/2020,,,CABA,,55,,1,0,573,417,Masculino
+988,20/06/2020,,,Buenos Aires,,,91,0,1,573,418,Femenino
+989,20/06/2020,,,Buenos Aires,,,88,0,1,573,419,Femenino
+990,20/06/2020,,,CABA,,,92,0,1,573,420,Femenino
+991,20/06/2020,,,CABA,,,49,0,1,573,421,Femenino
+992,21/06/2020,,,Buenos Aires,,83,,1,0,574,421,Masculino
+993,21/06/2020,,,Buenos Aires,,77,,1,0,575,421,Masculino
+994,21/06/2020,,,CABA,,63,,1,0,576,421,Masculino
+995,21/06/2020,,,CABA,,58,,1,0,577,421,Masculino
+996,21/06/2020,,,Río Negro,,82,,1,0,578,421,Masculino
+997,21/06/2020,,,CABA,,,94,0,1,578,422,Femenino
+998,21/06/2020,,,CABA,,,84,0,1,578,423,Femenino
+999,21/06/2020,,,Buenos Aires,,,65,0,1,578,424,Femenino
+1000,21/06/2020,,,Buenos Aires,,77,,1,0,579,424,Masculino
+1001,21/06/2020,,,Buenos Aires,,56,,1,0,580,424,Masculino
+1002,21/06/2020,,,Buenos Aires,,60,,1,0,581,424,Masculino
+1003,21/06/2020,,,Buenos Aires,,56,,1,0,582,424,Masculino
+1004,21/06/2020,,,Buenos Aires,,90,,1,0,583,424,Masculino
+1005,21/06/2020,,,CABA,,93,,1,0,584,424,Masculino
+1006,21/06/2020,,,CABA,,72,,1,0,585,424,Masculino
+1007,21/06/2020,,,CABA,,45,,1,0,586,424,Masculino
+1008,21/06/2020,,,Río Negro,,56,,1,0,587,424,Masculino
+1009,21/06/2020,,,Buenos Aires,,,64,0,1,587,425,Femenino
+1010,21/06/2020,,,CABA,,,88,0,1,587,426,Femenino
+1011,22/06/2020,,,Buenos Aires,,88,,1,0,588,426,Masculino
+1012,22/06/2020,,,Buenos Aires,,76,,1,0,589,426,Masculino
+1013,22/06/2020,,,CABA,,66,,1,0,590,426,Masculino
+1014,22/06/2020,,,Río Negro,,76,,1,0,591,426,Masculino
+1015,22/06/2020,,,CABA,,,84,0,1,591,427,Femenino
+1016,22/06/2020,,,Buenos Aires,,73,,1,0,592,427,Masculino
+1017,22/06/2020,,,Buenos Aires,,62,,1,0,593,427,Masculino
+1018,22/06/2020,,,Buenos Aires,,63,,1,0,594,427,Masculino
+1019,22/06/2020,,,Buenos Aires,,54,,1,0,595,427,Masculino
+1020,22/06/2020,,,CABA,,68,,1,0,596,427,Masculino
+1021,22/06/2020,,,CABA,,82,,1,0,597,427,Masculino
+1022,22/06/2020,,,CABA,,60,,1,0,598,427,Masculino
+1023,22/06/2020,,,CABA,,94,,1,0,599,427,Masculino
+1024,22/06/2020,,,CABA,,90,,1,0,600,427,Masculino
+1025,22/06/2020,,,CABA,,81,,1,0,601,427,Masculino
+1026,22/06/2020,,,CABA,,59,,1,0,602,427,Masculino
+1027,22/06/2020,,,CABA,,51,,1,0,603,427,Masculino
+1028,22/06/2020,,,CABA,,62,,1,0,604,427,Masculino
+1029,22/06/2020,,,Río Negro,,61,,1,0,605,427,Masculino
+1030,22/06/2020,,,Río Negro,,69,,1,0,606,427,Masculino
+1031,22/06/2020,,,Neuquén,,69,,1,0,607,427,Masculino
+1032,22/06/2020,,,Buenos Aires,,,68,0,1,607,428,Femenino
+1033,22/06/2020,,,Buenos Aires,,,96,0,1,607,429,Femenino
+1034,22/06/2020,,,CABA,,,73,0,1,607,430,Femenino
+1035,22/06/2020,,,CABA,,,75,0,1,607,431,Femenino
+1036,22/06/2020,,,CABA,,,53,0,1,607,432,Femenino
+1037,22/06/2020,,,CABA,,,91,0,1,607,433,Femenino
+1038,22/06/2020,,,CABA,,,92,0,1,607,434,Femenino
+1039,22/06/2020,,,CABA,,,91,0,1,607,435,Femenino
+1040,22/06/2020,,,CABA,,,96,0,1,607,436,Femenino
+1041,22/06/2020,,,Chaco,,,79,0,1,607,437,Femenino
+1042,22/06/2020,,,Río Negro,,,86,0,1,607,438,Femenino
+1043,23/06/2020,,,Buenos Aires,,91,,1,0,608,438,Masculino
+1044,23/06/2020,,,Buenos Aires,,74,,1,0,609,438,Masculino
+1045,23/06/2020,,,CABA,,67,,1,0,610,438,Masculino
+1046,23/06/2020,,,CABA,,76,,1,0,611,438,Masculino
+1047,23/06/2020,,,CABA,,73,,1,0,612,438,Masculino
+1048,23/06/2020,,,Chaco,,68,,1,0,613,438,Masculino
+1049,23/06/2020,,,Buenos Aires,,48,,1,0,614,438,Masculino
+1050,23/06/2020,,,Buenos Aires,,77,,1,0,615,438,Masculino
+1051,23/06/2020,,,Buenos Aires,,91,,1,0,616,438,Masculino
+1052,23/06/2020,,,Buenos Aires,,73,,1,0,617,438,Masculino
+1053,23/06/2020,,,Buenos Aires,,60,,1,0,618,438,Masculino
+1054,23/06/2020,,,Buenos Aires,,77,,1,0,619,438,Masculino
+1055,23/06/2020,,,Buenos Aires,,86,,1,0,620,438,Masculino
+1056,23/06/2020,,,Buenos Aires,,74,,1,0,621,438,Masculino
+1057,23/06/2020,,,CABA,,74,,1,0,622,438,Masculino
+1058,23/06/2020,,,CABA,,46,,1,0,623,438,Masculino
+1059,23/06/2020,,,CABA,,86,,1,0,624,438,Masculino
+1060,23/06/2020,,,CABA,,79,,1,0,625,438,Masculino
+1061,23/06/2020,,,CABA,,65,,1,0,626,438,Masculino
+1062,23/06/2020,,,CABA,,58,,1,0,627,438,Masculino
+1063,23/06/2020,,,CABA,,65,,1,0,628,438,Masculino
+1064,23/06/2020,,,CABA,,63,,1,0,629,438,Masculino
+1065,23/06/2020,,,Río Negro,,75,,1,0,630,438,Masculino
+1066,23/06/2020,,,Buenos Aires,,,77,0,1,630,439,Femenino
+1067,23/06/2020,,,Buenos Aires,,,88,0,1,630,440,Femenino
+1068,23/06/2020,,,Buenos Aires,,,80,0,1,630,441,Femenino
+1069,23/06/2020,,,Buenos Aires,,,87,0,1,630,442,Femenino
+1070,23/06/2020,,,Buenos Aires,,,91,0,1,630,443,Femenino
+1071,23/06/2020,,,CABA,,,62,0,1,630,444,Femenino
+1072,23/06/2020,,,CABA,,,85,0,1,630,445,Femenino
+1073,23/06/2020,,,CABA,,,71,0,1,630,446,Femenino
+1074,23/06/2020,,,CABA,,,86,0,1,630,447,Femenino
+1075,23/06/2020,,,CABA,,,80,0,1,630,448,Femenino
+1076,23/06/2020,,,CABA,,,96,0,1,630,449,Femenino
+1077,23/06/2020,,,Córdoba,,,90,0,1,630,450,Femenino
+1078,23/06/2020,,,Buenos Aires,,81,,1,0,631,450,Masculino
+1079,23/06/2020,,,Buenos Aires,,57,,1,0,632,450,Masculino
+1080,23/06/2020,,,Chaco,,46,,1,0,633,450,Masculino
+1081,23/06/2020,,,Chaco,,74,,1,0,634,450,Masculino
+1082,23/06/2020,,,Buenos Aires,,,82,0,1,634,451,Femenino
+1083,23/06/2020,,,Buenos Aires,,,80,0,1,634,452,Femenino
+1084,23/06/2020,,,Neuquén,,,82,0,1,634,453,Femenino
+1085,24/06/2020,,,Buenos Aires,,61,,1,0,635,453,Masculino
+1086,24/06/2020,,,Buenos Aires,,89,,1,0,636,453,Masculino
+1087,24/06/2020,,,Buenos Aires,,72,,1,0,637,453,Masculino
+1088,24/06/2020,,,Buenos Aires,,73,,1,0,638,453,Masculino
+1089,24/06/2020,,,Buenos Aires,,63,,1,0,639,453,Masculino
+1090,24/06/2020,,,Buenos Aires,,73,,1,0,640,453,Masculino
+1091,24/06/2020,,,Buenos Aires,,79,,1,0,641,453,Masculino
+1092,24/06/2020,,,Buenos Aires,,77,,1,0,642,453,Masculino
+1093,24/06/2020,,,Buenos Aires,,53,,1,0,643,453,Masculino
+1094,24/06/2020,,,Buenos Aires,,84,,1,0,644,453,Masculino
+1095,24/06/2020,,,CABA,,84,,1,0,645,453,Masculino
+1096,24/06/2020,,,CABA,,65,,1,0,646,453,Masculino
+1097,24/06/2020,,,CABA,,38,,1,0,647,453,Masculino
+1098,24/06/2020,,,Tierra del Fuego,,79,,1,0,648,453,Masculino
+1099,24/06/2020,,,Río Negro,,65,,1,0,649,453,Masculino
+1100,24/06/2020,,,Río Negro,,83,,1,0,650,453,Masculino
+1101,24/06/2020,,,Buenos Aires,,,1,0,1,650,454,Femenino
+1102,24/06/2020,,,Buenos Aires,,,70,0,1,650,455,Femenino
+1103,24/06/2020,,,Buenos Aires,,,65,0,1,650,456,Femenino
+1104,24/06/2020,,,Buenos Aires,,,87,0,1,650,457,Femenino
+1105,24/06/2020,,,Buenos Aires,,,6,0,1,650,458,Femenino
+1106,24/06/2020,,,Buenos Aires,,,92,0,1,650,459,Femenino
+1107,24/06/2020,,,Buenos Aires,,,89,0,1,650,460,Femenino
+1108,24/06/2020,,,CABA,,,65,0,1,650,461,Femenino
+1109,24/06/2020,,,CABA,,,69,0,1,650,462,Femenino
+1110,24/06/2020,,,CABA,,,96,0,1,650,463,Femenino
+1111,24/06/2020,,,CABA,,,47,0,1,650,464,Femenino
+1112,24/06/2020,,,CABA,,,95,0,1,650,465,Femenino
+1113,24/06/2020,,,CABA,,,91,0,1,650,466,Femenino
+1114,24/06/2020,,,CABA,,,95,0,1,650,467,Femenino
+1115,24/06/2020,,,CABA,,86,,1,0,651,467,Masculino
+1116,25/06/2020,,,Buenos Aires,,84,,1,0,652,467,Masculino
+1117,25/06/2020,,,Buenos Aires,,68,,1,0,653,467,Masculino
+1118,25/06/2020,,,Buenos Aires,,59,,1,0,654,467,Masculino
+1119,25/06/2020,,,Chaco,,39,,1,0,655,467,Masculino
+1120,25/06/2020,,,Buenos Aires,,,62,0,1,655,468,Femenino
+1121,25/06/2020,,,Buenos Aires,,,77,0,1,655,469,Femenino
+1122,25/06/2020,,,Buenos Aires,,,88,0,1,655,470,Femenino
+1123,25/06/2020,,,CABA,,,42,0,1,655,471,Femenino
+1124,25/06/2020,,,Buenos Aires,,75,,1,0,656,471,Masculino
+1125,25/06/2020,,,Buenos Aires,,72,,1,0,657,471,Masculino
+1126,25/06/2020,,,Buenos Aires,,79,,1,0,658,471,Masculino
+1127,25/06/2020,,,Buenos Aires,,75,,1,0,659,471,Masculino
+1128,25/06/2020,,,CABA,,68,,1,0,660,471,Masculino
+1129,25/06/2020,,,CABA,,72,,1,0,661,471,Masculino
+1130,25/06/2020,,,CABA,,89,,1,0,662,471,Masculino
+1131,25/06/2020,,,CABA,,87,,1,0,663,471,Masculino
+1132,25/06/2020,,,CABA,,50,,1,0,664,471,Masculino
+1133,25/06/2020,,,CABA,,90,,1,0,665,471,Masculino
+1134,25/06/2020,,,CABA,,90,,1,0,666,471,Masculino
+1135,25/06/2020,,,CABA,,67,,1,0,667,471,Masculino
+1136,25/06/2020,,,CABA,,76,,1,0,668,471,Masculino
+1137,25/06/2020,,,CABA,,78,,1,0,669,471,Masculino
+1138,25/06/2020,,,Neuquén,,62,,1,0,670,471,Masculino
+1139,25/06/2020,,,Neuquén,,70,,1,0,671,471,Masculino
+1140,25/06/2020,,,Chaco,,64,,1,0,672,471,Masculino
+1141,25/06/2020,,,Buenos Aires,,,89,0,1,672,472,Femenino
+1142,25/06/2020,,,Buenos Aires,,,87,0,1,672,473,Femenino
+1143,25/06/2020,,,Buenos Aires,,,82,0,1,672,474,Femenino
+1144,25/06/2020,,,Buenos Aires,,,72,0,1,672,475,Femenino
+1145,25/06/2020,,,CABA,,,94,0,1,672,476,Femenino
+1146,25/06/2020,,,CABA,,,90,0,1,672,477,Femenino
+1147,25/06/2020,,,CABA,,,94,0,1,672,478,Femenino
+1148,25/06/2020,,,CABA,,,57,0,1,672,479,Femenino
+1149,25/06/2020,,,CABA,,,95,0,1,672,480,Femenino
+1150,25/06/2020,,,Buenos Aires,,86,,1,0,673,480,Masculinoulino
